@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://nipponsake-cdd8f.web.app/</loc>
+  <lastmod>2020-02-26T17:52:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://nipponsake-cdd8f.web.app/aboutUs</loc>
+  <lastmod>2020-02-26T17:52:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://nipponsake-cdd8f.web.app/breweries</loc>
+  <lastmod>2020-02-26T17:52:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://nipponsake-cdd8f.web.app/whatIsSake</loc>
+  <lastmod>2020-02-26T17:52:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://nipponsake-cdd8f.web.app/contactUs</loc>
+  <lastmod>2020-02-26T17:52:11+00:00</lastmod>
+</url>
+<url>
+  <loc>https://nipponsake-cdd8f.web.app/breweryDetails/:id</loc>
+  <lastmod>2020-02-26T17:52:11+00:00</lastmod>
+</url>
+<!-- <url>
+  <loc>https://nipponsake-cdd8f.web.app/productDetails</loc>
+  <lastmod>2020-02-26T17:52:11+00:00</lastmod>
+</url> -->
+
+</urlset>
+

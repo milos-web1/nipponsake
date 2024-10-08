@@ -1,0 +1,51 @@
+{
+	"categories": [{
+		"id": "category_01",
+		"name": "category_01_all",
+		"products": ["prd_01", "prd_02", "prd_03", "prd_04", "prd_05", "prd_06", "prd_07", "prd_08", "prd_09", "prd_10", "prd_11", "prd_12", "prd_13", "prd_14", "prd_15", "prd_16", "prd_17", "prd_18", "prd_19", "prd_20", "prd_21", "prd_22", "prd_23", "prd_24", "prd_25", "prd_26", "prd_27", "prd_28", "prd_29", "prd_30", "prd_31", "prd_32", "prd_33", "prd_34", "prd_35", "prd_36", "prd_37", "prd_38", "prd_39", "prd_40", "prd_41", "prd_42", "prd_43", "prd_44", "prd_45", "prd_46", "prd_47", "prd_48", "prd_49"]
+	}, {
+		"id": "category_09",
+		"name": "category_09_junmai",
+		"products": ["prd_03", "prd_04", "prd_07", "prd_09", "prd_11", "prd_17", "prd_18", "prd_22", "prd_23", "prd_24", "prd_28", "prd_35", "prd_36", "prd_37", "prd_38", "prd_44", "prd_45"]
+	}, {
+		"id": "category_08",
+		"name": "category_08_toku_junmai",
+		"products": ["prd_15", "prd_19", "prd_20", "prd_21", "prd_25", "prd_26", "prd_30"]
+	}, {
+		"id": "category_11",
+		"name": "category_11_junmai_ginjo",
+		"products": ["prd_02", "prd_08", "prd_13", "prd_23", "prd_33", "prd_34", "prd_39", "prd_41"]
+	}, {
+		"id": "category_10",
+		"name": "category_10_junmai_daiginjo",
+		"products": ["prd_01", "prd_14", "prd_16", "prd_29", "prd_32", "prd_40", "prd_47", "prd_48", "prd_49","prd_46"]
+	}, {
+		"id": "category_13",
+		"name": "category_13_daiginjo",
+		"products": ["prd_12"]
+	}, {
+		"id": "category_12",
+		"name": "category_12_sparkling",
+		"products": ["prd_05", "prd_06", "prd_44", "prd_49"]
+	}, {
+		"id": "category_14",
+		"name": "category_14_kijoshu",
+		"products": ["prd_27"]
+	}, {
+		"id": "category_15",
+		"name": "category_15_ginjo",
+		"products": ["prd_31"]
+	}, {
+		"id": "category_16",
+		"name": "category_16_honjozo",
+		"products": ["prd_42"]
+	}, {
+		"id": "category_17",
+		"name": "category_17_yuzu",
+		"products": ["prd_43"]
+	}, {
+		"id": "category_18",
+		"name": "category_18_futsushu",
+		"products": ["prd_10"]
+	}]
+}

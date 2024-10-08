@@ -1,0 +1,1209 @@
+{
+	"menu": {
+		"home": "Home",
+		"aboutUs": "About us",
+		"product": "Products",
+		"breweries": "Breweries",
+		"whatIsSake": "What is Sake ?",
+		"contactUs": "Contact Us",
+		"onlineStore":"Online Store "
+	},
+	"aboutUs": {
+		"aboutUs": "About Us",
+		"japanTraditionToTheWorld": "MEET THE NIPPON SAKE TEAM",
+		"tagLine": "Meet the team and please feel free to reach out to us. ",
+		"concept": "Concept",
+		"conceptData": "Our mission is sincere and straightforward. Introduce Canada to a curated list of not only hard to source, but more importantly very high quality craft sake that's well priced.",
+		"services": "Services",
+		"servicesData": "At Nippon Sake, we now import a variety of Japanese beverages, with Sake being our primary product. We are uniquely positioned to leverage benefits of our relationships with craft producers all over Japan.",
+		"team": "Team",
+		"teamData": "Our team has extensive experience in sake, restaurants and international retail operations. We have skill sets that allows us to find high-quality small production craft brewers and to bring their products to foreign markets.",
+		"meetOurTeam": "Meet Our Team"
+	},
+	"lng": {
+		"en": "en",
+		"ja": "ja"
+	},
+	"home": {
+		"japanTraditionToTheWorld": "JAPANESE TRADITION TO THE WORLD",
+		"trueCraftSake": "True Craft Sake",
+		"tagline": "Getting a high-quality sake is important, but we believe a good sake experience extends beyond the bottle.",
+		"readMore": "Read More",
+		"ourSelectedSake": "OUR SELECTED SAKE",
+		"breweries": "Breweries",
+		"whatIsSake": "What is Sake",
+		"whatIsSakeInfo": "A Japanese alcoholic drink made from fermented rice. Unlike wine, sake is free of sulfites and sake has five times less acid, so it is easier on your stomach.",
+		"products": "Products"
+	},
+	"whatIsSake": {
+		"japanTraditionToTheWorld": "JAPANESE TRADITION TO THE WORLD",
+		"whatIsSake": "What Is Sake ?",
+		"tagline": "A Japanese alcoholic drink made from fermented rice. Unlike wine, sake is free of sulfites and sake has five times less acid.",
+		"theMakingprocess": "The making process",
+		"production": "Production",
+		"varieties": "Varieties"
+	},
+	"products": {
+		"products": "Products",
+		"ourSakeSelection": "OUR SAKE SELECTION",
+		"tagline": "Getting a high-quality sake is important, but we believe a good sake experience extends beyond the bottle.",
+		"selectbrewery": "Select Brewery"
+	},
+	"categories": {
+		"categories": "Categories"
+	},
+	"breweries": {
+		"breweries": "Breweries",
+		"breweriesTagLine": "Getting a high-quality sake is important, but we believe a good sake experience extends beyond the bottle.",
+		"ourSakeSelection": "OUR BREWERIES",
+		"breweriesText": "We believe that our selection of sake is both unique and of very high quality. These sake can be provided for any of you who are willing to enjoy sips of Japanese tradition in Canada where it is far from the original country, Japan. We are very happy to introduce our selected sake from our curated list of breweries for your pleasure ...",
+		"japaneseSakeBreweries": "Japanese Sake Breweries"
+	},
+	"contactUs": {
+		"japanTraditionToTheWorld": "SPECIALISTS IN FINE CRAFT SAKE",
+		"contactTagLine": "Want to get in touch ? We'd love to help you get started introducting Sake to your customers. ",
+		"contactUs": "Contact Us",
+		"address": "Address"
+	},
+	"contactForm": {
+		"yourName": "Your Name",
+		"email": "Email",
+		"yourMessage": "Your Message",
+		"yourNameData": "Your Name",
+		"emailAddress": "Email Address",
+		"typeHere": "Type Here",
+		"send": "Send",
+		"sending": "Sending"
+	},
+	"footer": {
+		"home": "Home",
+		"aboutUs": "About us",
+		"product": "Products",
+		"breweries": "Breweries",
+		"whatIsSake": "What is Sake?",
+		"contactUs": "Contact Us",
+		"onlineStore":"Online Store ",
+		"footerText": "© 2020 NIPPON SAKE IMPORTS - All rights reserved"
+	},
+	"contactus": {
+		"emptyName": "Please enter your name",
+		"emptyEmail": "Please provide valid email address.",
+		"emptyMessage": "Please enter a message"
+	},
+	"category": {
+		"category_01_all": "All",
+		"category_09_junmai": "Junmai",
+		"category_08_toku_junmai": "Tokubetsu Junmai ",
+		"category_11_junmai_ginjo": "Junmai Ginjo",
+		"category_10_junmai_daiginjo": "Junmai Daiginjo",
+		"category_15_ginjo": "Ginjo",
+		"category_13_daiginjo": "Daiginjo",
+		"category_12_sparkling": "Sparkling",
+		"category_14_kijoshu": "Kijoshu",
+		"category_16_honjozo": "Honjozo",
+		"category_17_yuzu": "Yuzu",
+		"category_18_futsushu": "Futsushu"
+	},
+	"product": {
+		"descriptionLabel": "Description",
+		"alcLabelLabel": "ALC(VOL.)",
+		"smvLabelLabel": "SMV",
+		"acidityLabelLabel": "ACIDITY",
+		"riceLabel": "RICE",
+		"riceMillingLabel": "RICE MILLING",
+		"championSakeLabel": "CHAMPION SAKE",
+		"skuLabel": "",
+		"tagsLabel": "Tags",
+		"categoriesLabel": "Categories",
+		"prd_01_name": "Toyo Bijin Junmai Daiginjo Ichibanmatoi",
+		"prd_01_brewerName": "SUMIKAWA BREWERY",
+		"prd_01_desc": "Once the long process of recovering the brewery itself was completed, efforts shifted to reclaiming their high status and authority in sake production, turning to the so-called \u2018diamond of sake rice\u2019 in the Aiyama variant. This daiginjo-grade sake in the junmai style makes use of a 40% grain polish and lengthy fermentation at a low temperature to give it a velvet-smooth mouthfeel from beginning to end. A scent of strawberries and vanilla gives way to charming and voluptuous savory notes. This sake was named to express the first brewer\u2019s love for his late wife.",
+		"prd_01_type": "Junmai Daiginjo",
+		"prd_01_alc": "16.0%",
+		"prd_01_smv": "+4.0",
+		"prd_01_acidity": 1.3,
+		"prd_01_riceBrand": "Aiyama",
+		"prd_01_riceMilling": "40%",
+		"prd_01_championSake": "Toasted Sake - Japan Russia Summit December 2016",
+		"prd_01_sku": "NSI-1",
+		"prd_01_tags": "Champion sake, Fruity, Junmai Daiginjo, Mild, Slightly Sweet, Smooth, Aiyama Rice",
+
+		"prd_02_name": "Bunkajin Junmai Ginjo Omachi",
+		"prd_02_brewerName": "ARISAWA",
+		"prd_02_desc": "Establishing a new foundation, overlaid with the tropical character typical of Ginjo grade sake, the \u201cBunkajin\u201d Junmai Ginjo is one of three masterpieces of that style offered by this producer. With the other two making use of the Yamada Nishiki and Gin no Yume rice varieties, this limited edition uses Omachi rice exclusively. Being the oldest and most primitive rice strain grown in Japan, Omachi presents a technical challenge that all sake brewers wish to face at least \u2013 and, owing to the difficulty, perhaps only \u2013 once in their career. The rich body is immediately apparent, following quickly by acidity, before settling into a decadent and beguiling finish.",
+		"prd_02_type": "Junmai Ginjo",
+		"prd_02_alc": "17.0%",
+		"prd_02_smv": "+4.0",
+		"prd_02_acidity": 1.3,
+		"prd_02_riceBrand": "Omachi(produced in Okayama prefecture)",
+		"prd_02_riceMilling": "50%",
+		"prd_02_championSake": "KURA MASTER 2018 Gold Medal",
+		"prd_02_sku": "NSI-2",
+		"prd_02_tags": "Champion sake, Fruity, Junmai Daiginjo, Mild, Slightly Sweet, Smooth, Yamada Nishiki",
+		"prd_03_name": "Rokuju Yoshu Junmai Yamada Nishiki",
+		"prd_03_brewerName": "IMAZATO BREWERY",
+		"prd_03_desc": "1st place in the Sake Appraisal sponsored by the Fukuoka National Taxation Bureau! This is a joint sake evaluation judged by professionals in Fukuoka, Nagasaki and Saga prefectures. 1st prize for the second consecutive year at the U.S. National Sake Appraisal. This sake has a pleasant flavor that rounds out a complex form over a consistent central theme. It is an all-purpose sake whose good taste can be enjoyed either cool or heated.",
+		"prd_03_type": "Junmai",
+		"prd_03_alc": "15.0%",
+		"prd_03_smv": "+1.0",
+		"prd_03_acidity": 1.6,
+		"prd_03_riceBrand": "Yamada Nishiki",
+		"prd_03_riceMilling": "65%",
+		"prd_03_championSake": "1st at Annual Kyushu Sake Awards 2013 & 2015. Gold at U.S. National Sake Appraisal 2015, 2016, 2017 & 2018. Gold at KURA MASTER 2018",
+		"prd_03_sku": "NSI-3",
+		"prd_03_tags": "Champion sake, Fruity, Junmai Daiginjo, Mild, Slightly Sweet, Smooth, Yamada Nishiki",
+
+		"prd_04_name": "HIWATA Yamahai Junmai",
+		"prd_04_brewerName": "HAGINO SHUZO",
+		"prd_04_desc": "Arising from the fact that it relies on bacteria producing high levels of lactic acid as a defense mechanism, the yamahai method can result in sake which some can find heavy and cloying \u2013 imagine the heavy notes of the richest Chardonnay. Consisting exclusively of sake that uses this method, the Hiwata range is thus positioned in such a way as to dispel such preconceptions, as with this example",
+		"prd_04_type": "Junmai",
+		"prd_04_alc": "16%",
+		"prd_04_smv": "+4.0",
+		"prd_04_acidity": 1.3,
+		"prd_04_riceBrand": "Gohyaku Mangoku, Miyama Nishiki",
+		"prd_04_riceMilling": "65%",
+		"prd_04_championSake": "KURA MASTER 2017 Gold Medal",
+		"prd_04_sku": "NSI-4",
+		"prd_04_tags": "Champion sake, Fruity, Junmai Daiginjo, Mild, Slightly Sweet, Smooth",
+		"prd_05_name": "Kikuizumi Hitosuji Sparkling",
+
+		"prd_05_brewerName": "Takizawa Brewing",
+		"prd_05_desc": "Kikuizumi hitosuji is brewed by an in-bottle secondary fermentation which is similar to champagne. Its color which techniques of brewing sake bring is beautifully and clearly gold. When it is poured into a glass, bubbles rise in a straight line in a glass. It provides sweetness and sour taste originated from rice, bringing a good harmony. It brings on profound and elegant taste of sake.",
+		"prd_05_type": "Junmai",
+		"prd_05_alc": "12.0%",
+		"prd_05_smv": "-30",
+		"prd_05_acidity": 4.8,
+		"prd_05_riceBrand": "Gohyakumangoku / \u4e94\u767e\u4e07\u77f3, Sakemusashi / \u3055\u3051\u6b66\u8535",
+		"prd_05_riceMilling": "60%",
+		"prd_05_championSake": "Kura Master 2019 Gold in Sparkling Section",
+		"prd_05_sku": "NSI-5",
+		"prd_05_tags": "Champion sake",
+
+		"prd_06_name": "Kikuizumi Hitosuji Rose Sparkling Junmai",
+		"prd_06_brewerName": "Takizawa Brewing",
+		"prd_06_desc": "The Kikuizumi Hitosuji Rose Sparkling Junmai is the world's first genuine rosé Sparkling sake. It is made from Sakemusashi Gohyakumangoku sake rice from the Saitama Prefecture, refined down to 60% and brewed with Sekishoku Koubo (red yeast). There has already been a circulation of rosé sparkling sake in the market before, but this is the world's first type of sake that, through the secondary fermentation technique, achieves transparency and the removal of lees.",
+		"prd_06_type": "Junmai",
+		"prd_06_alc": "11.0%",
+		"prd_06_smv": "-45.0",
+		"prd_06_acidity": 3.8,
+		"prd_06_riceBrand": " Gohyakumangoku / \u4e94\u767e\u4e07\u77f3, Sakemusashi / \u3055\u3051\u6b66\u8535",
+		"prd_06_riceMilling": "60%",
+		"prd_06_championSake": "Kura Master 2019 Sparkling Standard Division GOLD.",
+		"prd_06_sku": "NSI-6",
+		"prd_06_tags": "Champion Sake, Sweet, Classy",
+
+		"prd_07_name": "Daijiro Yamahai Junmai Nama Genshu",
+		"prd_07_brewerName": "Hata Shuzo",
+		"prd_07_desc": "The nose has rich umami flavor and notes of toasted grains and banana bread. The long maturation gives this sake some caramel notes and the nama from is strong. This sake has substantial body and some sweetness, but everything is brought into balance by its high acidity. It is an exceptional food sake.",
+		"prd_07_type": "Junmai",
+		"prd_07_alc": "17%",
+		"prd_07_smv": "+3",
+		"prd_07_acidity": 2.1,
+		"prd_07_riceBrand": " Ginfubuki",
+		"prd_07_riceMilling": "60%",
+		"prd_07_championSake": "N/A",
+		"prd_07_sku": "NSI-7",
+		"prd_07_tags": "Food: Beef, Pork, Chicken, Red Fish, Fried Dishes, Grilled Dishes",
+
+		"prd_08_name": "Shidaizumi Junmai Ginjo",
+		"prd_08_brewerName": "Shidaizumi Shuzo",
+		"prd_08_desc": "This Junmai Ginjo sake is made from locally sourced Homarefuji rice, and very soft water that comes from the southern alps. It has prototypical \u201cGinjo\u201d aromas of banana, melon, strawberry, and mint. The sake is clean and light in body. The slight astringent quality expands this ginjo sake\u2019s paring ability to chicken, pork, and vinegar-based dishes. ",
+		"prd_08_type": "Junmai Ginjo",
+		"prd_08_alc": "15%",
+		"prd_08_smv": "-",
+		"prd_08_acidity": "-",
+		"prd_08_riceBrand": " Homarefuji rice",
+		"prd_08_riceMilling": "55%",
+		"prd_08_championSake": "N/A",
+		"prd_08_sku": "NSI-8",
+		"prd_08_tags": "White fish, sashimi, chicken, pork, vegetables, vinegar based dishes",
+
+		"prd_09_name": "Hanatomoe 'Yodan' Yamahai Muroka Nama Genshu Junmai",
+		"prd_09_brewerName": "Miyoshino Shuzo",
+		"prd_09_desc": "This is a complex sake with a variety of aromatics, rich flavors on the palate, and a nice balance of sweetness, dryness, and acidity.  There are lactic aromas of yogurt and sweet butter, grain and rice notes of steamed rice and bran, and aromas of almond, orange, and light caramel.  The body is medium and there are nice flavors of dried fruits on the palate.",
+		"prd_09_type": "Junmai",
+		"prd_09_alc": "17%",
+		"prd_09_smv": "-",
+		"prd_09_acidity": "-",
+		"prd_09_riceBrand": " Ginosato rice",
+		"prd_09_riceMilling": "70%",
+		"prd_09_championSake": "N/A",
+		"prd_09_sku": "NSI-9",
+		"prd_09_tags": "Shrimp dishes, sweet chili sauce, ethnic food, pork, chicken, marinated meats",
+
+		"prd_10_name": "Hanatomoe Mizumoto x Mizumoto Muroka Nama Genshu",
+		"prd_10_brewerName": "Miyoshino Shuzo",
+		"prd_10_desc": "A fascinating sake, by its method and its unique aromatic profile. Lively, fresh, fruity and complex. A strong impact, with a present and deep umami, powerful flavors. A sake to be discovered absolutely.",
+		"prd_10_type": "Futsushu",
+		"prd_10_alc": "17%",
+		"prd_10_smv": "-",
+		"prd_10_acidity": "-",
+		"prd_10_riceBrand": " Ginosato rice",
+		"prd_10_riceMilling": "70%",
+		"prd_10_championSake": "N/A",
+		"prd_10_sku": "NSI-10",
+		"prd_10_tags": "Vivid and deep at the same time, a unique sake.",
+
+		"prd_11_name": "Tenon Junmai Nigori",
+		"prd_11_brewerName": "Itakura Shuzo",
+		"prd_11_desc": "This Nigori sake is made in the sokujo moto style and has aromas of fresh rice, and light banana.  The texture is creamy and effervescent.  The sake is light in body and is on the drier side.",
+		"prd_11_type": "Junmai",
+		"prd_11_alc": "15-16%",
+		"prd_11_smv": "+5",
+		"prd_11_acidity": "1.7",
+		"prd_11_riceBrand": "Gohyakuman-Goku",
+		"prd_11_riceMilling": "60%",
+		"prd_11_championSake": "N/A",
+		"prd_11_sku": "NSI-11",
+		"prd_11_tags": "Chicken, pork, cream sauces",
+
+		"prd_12_name": "Daiginjo Hakurou",
+		"prd_12_brewerName": "Sawada Shuzo",
+		"prd_12_desc": "Daiginjo Hakurou is their finest product and its polished to 40%. The rice  (Yamada-nishiki) is fermented at a low temperature for a long period. The rice farmers in this regiond are dedicated to making the best quality Yamadanishiki in collaboration with the agricultural association. This sake has fine fruity aromas, is well-balanced as is mildly sweet sake. It also has a slight sharpness on the aftertaste, that gives a refreshingly crisp finish. The balance of alcohol and sharpness of taste, blends in wonderful harmony with dishes. ",
+		"prd_12_type": "Daiginjo",
+		"prd_12_alc": "16.5%",
+		"prd_12_smv": "+4",
+		"prd_12_acidity": "1.1",
+		"prd_12_riceBrand": " Premium Yamada Nishiki",
+		"prd_12_riceMilling": "40%",
+		"prd_12_championSake": "Japan Sake Awards the Gold Prize\uff081987, 1993, 1998, 2005, 2008, 2009, 2014, 2018)",
+		"prd_12_sku": "NSI-12",
+		"prd_12_tags": "Chicken, pork, cream sauces",
+
+		"prd_13_name": "Junmaiginjo Hakurou",
+		"prd_13_brewerName": "Sawada Shuzo",
+		"prd_13_desc": "Made of locally grown rice named \u2018Yume ginga\u2019 which is Aichi\u2019s special Sake Rice. 55% polished sake with fruity aroma. This sake is VERY flexible and will match various dishes,such as Sushi, Sashimi, Tempra, beef steak, etc. It has a mild savor of rice and toward the end you can taste some acidy and crisp finish.",
+		"prd_13_type": "Junmai Ginjo",
+		"prd_13_alc": "15%",
+		"prd_13_smv": "+3",
+		"prd_13_acidity": "1.6",
+		"prd_13_riceBrand": " Yumeginga",
+		"prd_13_riceMilling": "55%",
+		"prd_13_championSake": "N/A",
+		"prd_13_sku": "NSI-13",
+		"prd_13_tags": "Sushi, Sashimi, Tempra, beef steak ...",
+
+		"prd_14_name": "Tojo Yamadanishiki Junmai Daiginjo Hakurou",
+		"prd_14_brewerName": "Sawada Shuzo",
+		"prd_14_desc": "Tojo Yamadanishiki is the king of rice made in HyogoPrefecture. 50% polished sake with mild aroma that will match various dishes,such as Sushi,Sashimi,Tempra, beef steak, etc. It has a mild savor of rice and toward the end you can taste some acidy and crisp finish.",
+		"prd_14_type": "Junmai Daiginjo",
+		"prd_14_alc": "16%",
+		"prd_14_smv": "+6",
+		"prd_14_acidity": "1.6",
+		"prd_14_riceBrand": "Yamada Nishiki",
+		"prd_14_riceMilling": "50%",
+		"prd_14_championSake": "N/A",
+		"prd_14_sku": "NSI-14",
+		"prd_14_tags": "Sushi,Sashimi,Tempra, White Fish",
+
+		"prd_15_name": "Tokubetsu Junmaishu Hakurou",
+		"prd_15_brewerName": "Sawada Shuzo",
+		"prd_15_desc": "Deep flavor and full-bodied tastes using brewer's original rice 'Wakamizu' that is made in Chita peninsula. Winning prize in 3 consecutive years. It goes well with fatty foods, since its acidity enhances the taste of such dishes as fried fish and foie gras terrine, not to mention Japanese dishes. Served chilled,room temperature, warm.",
+		"prd_15_type": "Tokubetsu Junmai",
+		"prd_15_alc": "15.5%",
+		"prd_15_smv": "+3",
+		"prd_15_acidity": "1.6",
+		"prd_15_riceBrand": " Wakamizu",
+		"prd_15_riceMilling": "60%",
+		"prd_15_championSake": "Tokai sake awards the honor prize \uff082015, 2016, 2017, 2019\uff09",
+		"prd_15_sku": "NSI-15",
+		"prd_15_tags": "Fatty foods and fried dishes",
+
+		"prd_16_name": "Echizen Misaki Junmai Daiginjo",
+		"prd_16_brewerName": "Tanabe Shuzo",
+		"prd_16_desc": "Typical ginjo notes of pineapple, melon, banana, bubble gum and anise.  This sake is light in body with more fruity flavors on the palate.  The finish is quick and sake a nice light texture with a decent amount of sweetness.",
+		"prd_16_type": "Junmai Daiginjo",
+		"prd_16_alc": "16%",
+		"prd_16_smv": "+1",
+		"prd_16_acidity": "-",
+		"prd_16_riceBrand": "Koshi-no-Shizuku",
+		"prd_16_riceMilling": "50%",
+		"prd_16_championSake": "N/A",
+		"prd_16_sku": "NSI-16",
+		"prd_16_tags": "White flesh fish, toro, fish, lighter sashimi, fruit, ceviche, sweet shrimp, scallop sashimi",
+
+		"prd_17_name": "Echizen Misaki Junmai Genshu",
+		"prd_17_brewerName": "Tanabe Shuzo",
+		"prd_17_desc": "This sake is made from Kuzuryu rice, an heirloom sake rice that has not been used in 10 years.  This junmai sake has been made using ginjo style methods, and a long and cold fermentation.  These techniques give this junmai sake a clean profile that dry, with a nice acidity.  The sake has a crisp finish and nice backbone, as it has not been diluted with water.",
+		"prd_17_type": "Junmai ",
+		"prd_17_alc": "17%",
+		"prd_17_smv": "+6",
+		"prd_17_acidity": "1.4",
+		"prd_17_riceBrand": "Kuzuryu",
+		"prd_17_riceMilling": "60%",
+		"prd_17_championSake": "N/A",
+		"prd_17_sku": "NSI-17",
+		"prd_17_tags": "White flesh fish, oily blue-back fish, shellfish, vegetables, and vinegar based dishes.",
+
+		"prd_18_name": "Gunma Izumi Junmai Yamahai",
+		"prd_18_brewerName": "Shimaoka Shuzo",
+		"prd_18_desc": "Rich, complex nose with aromas of soy sauce, caramel, spiced banana bread, and roasted nuts. This sake is rich on palate with good acidity and significant body. This sake has a depth and complexity that make it ideal for pairing with richer foods, especially yakitori that is served with tare sauce. ",
+		"prd_18_type": "Junmai ",
+		"prd_18_alc": "15-16%",
+		"prd_18_smv": "+3",
+		"prd_18_acidity": "1.7",
+		"prd_18_riceBrand": "Waka Mizu",
+		"prd_18_riceMilling": "60%",
+		"prd_18_championSake": "N/A",
+		"prd_18_sku": "NSI-18",
+		"prd_18_tags": "Beef, pork, chicken, red fish, root vegetables, fried dishes, grilled dishes, big, full-bodied, rich umami, high acidity, balanced",
+
+		"prd_19_name": "Tabika Tokubetsu Junmai Omachi",
+		"prd_19_brewerName": "Hayakawa Shuzo",
+		"prd_19_desc": "This sake has a broad range when it comes to food pairing.  It is ideal when paired with white fleshed fish, richer silver backed fish, green vegetables, and vinegar based dishes.  This sake also can be enjoyed with richer fish, pork, chicken, root vegetables, soft cheeses, and fried foods. ",
+		"prd_19_type": "Tokubetsu Junmai ",
+		"prd_19_alc": "15.6%",
+		"prd_19_smv": "N/A",
+		"prd_19_acidity": "",
+		"prd_19_riceBrand": "Omachi",
+		"prd_19_riceMilling": "60%",
+		"prd_19_championSake": "N/A",
+		"prd_19_sku": "NSI-19",
+		"prd_19_tags": "Richer fish, Pork, Chicken, Root Vegatables, Soft Cheeses & Fried foods.",
+
+		"prd_20_name": "RUMIKO's SAKE Special Junmai (No.9 Yeast)",
+		"prd_20_brewerName": "Moriki Shuzo",
+		"prd_20_desc": "'Rumiko's Sake' is brewed by a woman Toji, Rumiko. A label is drawn by Akira Oze, famous for the comic 'Natsuko's Sake'.No. 9 yeast with sharp spiciness and umami. Please try at various temperatures!",
+		"prd_20_type": "Tokubetsu Junmai ",
+		"prd_20_alc": "15.8%",
+		"prd_20_smv": "+7",
+		"prd_20_acidity": "1.6",
+		"prd_20_riceBrand": "Yamadanishiki, Hitogokochi",
+		"prd_20_riceMilling": "60%",
+		"prd_20_championSake": "N/A",
+		"prd_20_sku": "NSI-28",
+		"prd_20_tags": "You can eat it deliciously even when cold, but even more deliciously even when warm!",
+
+		"prd_21_name": "HANABUSA Kimoto Special Junmai (Organic Rice)",
+		"prd_21_brewerName": "Moriki Shuzo",
+		"prd_21_desc": "'This Junmai sake is made by 'Kimoto' with pesticide-free Yamada Nishiki.You can feel the acidity of Kimoto and the rich umami taste of Yamada Nishiki.Kimoto's peculiar bitterness is less so that sake quality is very clear.",
+		"prd_21_type": "Tokubetsu Junmai ",
+		"prd_21_alc": "15.8%",
+		"prd_21_smv": "+7",
+		"prd_21_acidity": "1.8",
+		"prd_21_riceBrand": "Organic Yamadanishiki",
+		"prd_21_riceMilling": "60%",
+		"prd_21_championSake": "N/A",
+		"prd_21_sku": "NSI-29",
+		"prd_21_tags": "You can eat it deliciously even when cold, but even more deliciously even when warm!",
+
+		"prd_22_name": "HYAKUJURO Junmai Extra Dry Red Face",
+		"prd_22_brewerName": "Hayashi Brewery",
+		"prd_22_desc": "Plump and rich sake goes with foods. A plump aroma of freshly cooked rice modestly. While starting with a gentle sweetness and soft taste, the aftertaste is sharp and dry. This sake is easy to match with wide variety of meals. A sake light floral nose, but incredibly deep at the same time. It is dry and precise, powerful with a rich umami. A deep karakuchi able to accompany many preparations of powerful flavors, at different temperatures, including heated. Dry and precise, The most popular sake of the Hyakujuro series.",
+		"prd_22_type": "Junmai",
+		"prd_22_alc": "15%",
+		"prd_22_smv": "+11",
+		"prd_22_acidity": "1.6",
+		"prd_22_riceBrand": "Gohyakumangoku",
+		"prd_22_riceMilling": "70%",
+		"prd_22_championSake": "N/A",
+		"prd_22_sku": "NSI-21",
+		"prd_22_tags": "Chilled Tofu, Grilled Vegetables, and Light White Fish Sashimi",
+
+		"prd_23_name": "HYAKUJURO Junmai Ginjo Sakura Genshu",
+		"prd_23_brewerName": "Hayashi Brewery",
+		"prd_23_desc": "Spring-filled Junmai Ginjo liquor with a refreshing feeling of fresh aromas of white peaches and citrus. Fresh, pure flavors and supple acids harmonize to maintain a refined and refreshing taste. Sake for special event with meal Junmai Ginjo Sake, designed with the motif of cherry blossoms, a symbol of Japan, is a liquor suitable for meals at gorgeous and fun events.",
+		"prd_23_type": "Junmai Ginjo",
+		"prd_23_alc": "16%",
+		"prd_23_smv": "+4",
+		"prd_23_acidity": "2.1",
+		"prd_23_riceBrand": "Akita-sake Komachi",
+		"prd_23_riceMilling": "55%",
+		"prd_23_championSake": "N/A",
+		"prd_23_sku": "NSI-22",
+		"prd_23_tags": "Tempura, Scattered Sushi, Caesar salad, Salted Chicken\uff08Karaage), Cheese Pizza, Gyoza",
+
+		"prd_24_name": "HYAKUJURO Yamahai Junmai",
+		"prd_24_brewerName": "Hayashi Brewery",
+		"prd_24_desc": "Aged sake with a color like caramel. With aroma and taste like sherry and brandy, you can enjoy the umami and rich taste of Japanese sake. A complex and rich taste with a plump sense of volume and a mixture of umami and sourness. Warm for a softer, more rounded finish. This sake is an additive-free and utilizing lactic acid bacteria for the first time in Japan.",
+		"prd_24_type": "Junmai",
+		"prd_24_alc": "15%",
+		"prd_24_smv": "+3",
+		"prd_24_acidity": "1.5",
+		"prd_24_riceBrand": "Gohyakumangoku",
+		"prd_24_riceMilling": "60%",
+		"prd_24_championSake": "N/A",
+		"prd_24_sku": "NSI-20",
+		"prd_24_tags": "Gratin, Chicken Liver Teriyaki, Yakitori, Shabu-Shabu with sesami",
+
+		"prd_25_name": "Emishiki Sensation Black Special Junmai",
+		"prd_25_brewerName": "Emishiki Brewery",
+		"prd_25_desc": "Hint of strawberry \u2013 purely surprised when sipped for the first time. Elegant and delicate. Existence of sake\u2019s flavor itself is very strong \u2013 may pair well with desert as well. Best served in VERY cold Emishiki sensation has two types, Black label and White label. This Sensation Black, compared with the White, is a slightly dry type with a fresh acidity. Very well-balanced, perfect with meal. It is 50% polished rice equivalent to Junmai Daiginjo, and it takes time to squeeze. Although they are the exact opposite of sake, both are great values for the price, so please compare the two types.",
+		"prd_25_type": "Junmai",
+		"prd_25_alc": "16%",
+		"prd_25_smv": "-",
+		"prd_25_acidity": "1.5",
+		"prd_25_riceBrand": "Local Shiga Rice",
+		"prd_25_riceMilling": "50%",
+		"prd_25_championSake": "N/A",
+		"prd_25_sku": "NSI-25",
+		"prd_25_tags": "Grilled vegetables, shellfish or fish.",
+
+		"prd_26_name": "Emishiki Sensation White Special Junmai",
+		"prd_26_brewerName": "Emishiki Brewery",
+		"prd_26_desc": "This Sensation White uses Ginjo type yeast and has a slightly sweet taste with nice fragrance. Actually, Sensation series are brewed by Junmai Daiginjo class method but using Shiga local table rice in order to offer reasonable price. Nuances of vanilla and banana. Texture is clean, fresh and soft.",
+		"prd_26_type": "Junmai",
+		"prd_26_alc": "15%",
+		"prd_26_smv": "+3",
+		"prd_26_acidity": "1.5",
+		"prd_26_riceBrand": "Local Shiga Rice",
+		"prd_26_riceMilling": "60%",
+		"prd_26_championSake": "SAKE COMPETITION 2018 Junmai GOLD",
+		"prd_26_sku": "NSI-26",
+		"prd_26_tags": " Jamon, prosciutto, cheese, smoke salmon, caviar.",
+
+		"prd_27_name": "Emishiki Kijoshu Monsoon",
+		"prd_27_brewerName": "Emishiki Brewery",
+		"prd_27_desc": "Luxurious sweetness and vivid flavor! This sake, inspired by German noble rot wines, has made Emishiki Brewery popular. Normally, when making sake, water is used in three parts. Using \u201csake\u201d instead of water at the last phase is the sake called 'Kijo-shu'. This leaves a lot of sugar that would otherwise be broken down by yeast and produces sweet and rich sake like a high-end sweet wine. Please enjoy it with desserts as a digestif.",
+		"prd_27_type": "Kijoshu",
+		"prd_27_alc": "17%",
+		"prd_27_smv": "-",
+		"prd_27_acidity": "",
+		"prd_27_riceBrand": "Yamadanishiki",
+		"prd_27_riceMilling": "60%",
+		"prd_27_championSake": "N/A",
+		"prd_27_sku": "NSI-27",
+		"prd_27_tags": "Fried scallops and abalone with XO sauce, Chinese cuisine such as Stir-fried shrimp with chili sauce. Western cuisine such as Saute of foie gras. Dessert such as Cream brulee, vanilla ice cream.",
+
+		"prd_28_name": "ZAKU Junmai'Ho no Tomo'",
+		"prd_28_brewerName": "Shimizu Seizaburo Shoten",
+		"prd_28_desc": "Of the three incarnations of Zaku in a junmai style, Ho no moto offers the ideal balance of flavor and aroma. Presenting an initial scent of lychee and fruit character, proceeding into a subtle sweetness, and finishing with a light aftertaste, it expresses the character of rice grain in a gentle, harmonious manner, as its name suggests.",
+		"prd_28_type": "Junmai",
+		"prd_28_alc": "15%",
+		"prd_28_smv": "+5",
+		"prd_28_acidity": "1.7",
+		"prd_28_riceBrand": "-",
+		"prd_28_riceMilling": "60%",
+		"prd_28_championSake": "1st place at the 2017 SAKE COMPETITION,Grand Prix Award Winner at the 2017, U.S. National Sake Appraisal,Gold medal at the 2017 International Wine Challenge,Platinum Medal at the 2017 KURA MASTER",
+		"prd_28_sku": "NSI-23",
+		"prd_28_tags": "Rolled asparagus with meat, grilled pork with Sansho and miso, abalone steak, potato gnocchi etc.",
+
+		"prd_29_name": "ZAKU Junmai Daiginjo Nakadori 'Miyabi no Tomo'",
+		"prd_29_brewerName": "Shimizu Seizaburo Shoten",
+		"prd_29_desc": "Green apples on the aroma with stone fruits on the palate. Good tension, good precision with a polished grainy texture.",
+		"prd_29_type": "Junmai Daiginjo",
+		"prd_29_alc": "16%",
+		"prd_29_smv": "-",
+		"prd_29_acidity": "-",
+		"prd_29_riceBrand": "Yamadanishiki",
+		"prd_29_riceMilling": "50%",
+		"prd_29_championSake": "3rd place at the 2018 SAKE COMPETITION,Gold medal at the 2014, 2015, 2016, and 2018 U.S. National Sake Appraisal,Gold medal at the 2017 KURA MASTER,'The Best' award at the 2017 Hong Kong Wine & Spirits Writers Association for \u201cMy Favorite Choice\u201d",
+		"prd_29_sku": "NSI-24",
+		"prd_29_tags": "Cream soup based fish, Saute in butter, Caprese of water buffalo mozzarella.",
+
+		"prd_30_name": "Mutsu-Hassen Red label",
+		"prd_30_brewerName": "Hachinohe Shuzo",
+		"prd_30_desc": "The fruity and sweet aroma like red riped apple are very clear. This is a fine representative of the 'Hassen' brand. The balance of richness and dryness combines well with meals containing herbs or spicy seasoning. Served cold and in a wine glass, its superb.",
+		"prd_30_type": "Special Junmai",
+		"prd_30_alc": "16%",
+		"prd_30_smv": "+2",
+		"prd_30_acidity": "1.3",
+		"prd_30_riceBrand": "Hanafubuki",
+		"prd_30_riceMilling": "60%",
+		"prd_30_championSake": "The Fine Sake Awards with wine glass in 2019,2018, Premium Junmai category: Gold medal, KURA MASTER 2019 (platinum),KURA MASTER 2017(platinum), International Wine Challenge 2019 ",
+		"prd_30_sku": "NSI-28",
+		"prd_30_tags": "Baked Mussels with breadcrumbs & herbs, Grilled beef, Garlic shrimp, Pork",
+
+		"prd_31_name": "Mutsu-Hassen Pink label",
+		"prd_31_brewerName": "Hachinohe Shuzo",
+		"prd_31_desc": "Like ripen banana and melon flavor is present on your first sip. Strong umami and a sharp aftertaste are well-balanced. Keep it cold and use a wine-glass to enjoy its fabulous aroma. Great with fatty foods.",
+		"prd_31_type": "Ginjo",
+		"prd_31_alc": "16%",
+		"prd_31_smv": "0",
+		"prd_31_acidity": "1.1",
+		"prd_31_riceBrand": "Hanafubuki",
+		"prd_31_riceMilling": "60%",
+		"prd_31_championSake": "International Wine Challenge 2019, International Wine Challenge 2018, Japanese Sake category: Silver medal/Gold Medal, International Wine Challenge 2016 ",
+		"prd_31_sku": "NSI-29",
+		"prd_31_tags": "Sweet-and-sour pork, Cheese fondue, Bolognase, Breaded pork cutlet, Blue cheese with honey sauce, Diped bowl with flatfish and soysauce ",
+
+		"prd_32_name": "Hanatomoe Yamahai Junmai Daiginjo Muroka Nama Genshu",
+		"prd_32_brewerName": "Miyoshino Shuzo",
+		"prd_32_desc": "This slightly aged Hanatomoe Daiginjo is a truly unique sake. Not only is it made with Gin no Sato rice polished to 50% making it Junmai Daiginjo it is also Yamahai (traditional starter ferment). There are not may expressions of Daiginjo that are also Yamahai in the market. Also this sake is fermented utilising naturally occurring yeast in the brewery. This is an expressive sake showing a vibrant fruit driven aroma with a smooth textural palate and fine acid-driven finish.",
+		"prd_32_type": "Junmai",
+		"prd_32_alc": "16%",
+		"prd_32_smv": "-",
+		"prd_32_acidity": "-",
+		"prd_32_riceBrand": " Ginosato rice",
+		"prd_32_riceMilling": "50%",
+		"prd_32_championSake": "N/A",
+		"prd_32_sku": "NSI-43",
+		"prd_32_tags": "It has a sweet, fruity aroma and a refreshing acidity",
+
+		"prd_33_name": "HYAKUJURO Junmai Ginjo COSMOS",
+		"prd_33_brewerName": "Hayashi Brewery",
+		"prd_33_desc": "Gorgeously blooming white flowers, with aromas like ripe gooseberries on the nose. In the mouth, a soft and gentle sweetness spreads easily, and the fresh and lush acidity takes the lead to tighten the whole experience in a well-balanced manner.",
+		"prd_33_type": "Junmai Ginjo",
+		"prd_33_alc": "16%",
+		"prd_33_smv": "+0.7",
+		"prd_33_acidity": "2.0",
+		"prd_33_riceBrand": "Akita-sake Komachi",
+		"prd_33_riceMilling": "55%",
+		"prd_33_championSake": "N/A",
+		"prd_33_sku": "NSI-50",
+		"prd_33_tags": "Food pairing examples: Caesar salad, Italian Pasta, fried chicken, cream gratin, buttered salmon, etc.",
+
+		"prd_34_name": "HYAKUJURO Junmai Ginjo Blue Wave",
+		"prd_34_brewerName": "Hayashi Brewery",
+		"prd_34_desc": "The aroma is not overly aromatic, with a well-balanced blend of faint pear, lychee fruit, ultra-fresh cheese, and pleasant herbaceous notes. The sake  has a fine and smooth texture with a glossy flavor that can be sensed for a moment, but it is later tightened by a hint of acidity and a voluminous bitterness that flow through the mouth. It is truly refreshing and dry!",
+		"prd_34_type": "Junmai Ginjo",
+		"prd_34_alc": "15%",
+		"prd_34_smv": "+14",
+		"prd_34_acidity": "1.3",
+		"prd_34_riceBrand": "Gohyakumangoku",
+		"prd_34_riceMilling": "60%",
+		"prd_34_championSake": "N/A",
+		"prd_34_sku": "NSI-21",
+		"prd_34_tags": "Food pairing examples: White meat sashimi,Kumiage Tofu, Sushi,soba noodles, pasta.",
+
+		"prd_35_name": "Osakazuki Macho Junmai 90 (Gorilla)",
+		"prd_35_brewerName": "Makino Shuzo",
+		"prd_35_desc": "From Makino Shuzo's popular 'macho' series, Gori Macho, a protein Junmai with a body full of wildness. It's a (Koshiki Kimoto) Old Style Kimoto. This is the first year that Makino-san has attempted to brew sake using the old yeast mash method without adding any cultured yeast and 90% polished rice from Gunma Prefecture.</br>This old-fashioned sake yeast mash is made over a longer period of time than a normal sake mash.",
+		"prd_35_type": "Junmai",
+		"prd_35_alc": "15%",
+		"prd_35_smv": "-",
+		"prd_35_acidity": "3.0",
+		"prd_35_riceBrand": "Undisclosed",
+		"prd_35_riceMilling": "Undisclosed",
+		"prd_35_championSake": "N/A",
+		"prd_35_sku": "NSI-54",
+		"prd_35_tags": "Cheese, vinegar dishes, beef, pork, lamb, chicken, fruits, and root vegetables",
+
+		"prd_36_name": "Osakazuki Macho Junmai 70 (Masked)",
+		"prd_36_brewerName": "Makino Shuzo",
+		"prd_36_desc": "The soft aroma of rice gently envelopes your palette. With a full body and a crisp finish, the firm acidity that ties it all together gives it a unique character.",
+		"prd_36_type": "Junmai",
+		"prd_36_alc": "17%",
+		"prd_36_smv": "-",
+		"prd_36_acidity": "-",
+		"prd_36_riceBrand": "Undisclosed",
+		"prd_36_riceMilling": "70%",
+		"prd_36_championSake": "Special Prize for junmaishu category in the 2019 Kanto-Shinetsu Sake Awards 2019 by the National Tax Agency",
+		"prd_36_sku": "NSI-38",
+		"prd_36_tags": "-",
+
+		"prd_37_name": "Osakazuki Macho Omachi Junmai 80 (Man)",
+		"prd_37_brewerName": "Makino Shuzo",
+		"prd_37_desc": "Uses \u201cAkaiwaomachi\u201d and a low polished ratio. Characterized by a filling aroma of freshly steamed rice. At first with a rich umami, followed by some acidity and bitterness giving it a sharp finish.",
+		"prd_37_type": "Junmai",
+		"prd_37_alc": "15%",
+		"prd_37_smv": "-",
+		"prd_37_acidity": "-",
+		"prd_37_riceBrand": "Akaiwa Omachi",
+		"prd_37_riceMilling": "80%",
+		"prd_37_championSake": "N/A",
+		"prd_37_sku": "NSI-39",
+		"prd_37_tags": "-",
+
+		"prd_38_name": "Osakazuki Macho Aiyama Junmai 80 (Woman)",
+		"prd_38_brewerName": "Makino Shuzo",
+		"prd_38_desc": "100% Aiyama rice and a low polished ratio. Lightly carbonated, balanced with a hint of sweetness and ample umami, it is followed with a crisp finish.",
+		"prd_38_type": "Junmai",
+		"prd_38_alc": "15%",
+		"prd_38_smv": "-",
+		"prd_38_acidity": "-",
+		"prd_38_riceBrand": "Aiyama",
+		"prd_38_riceMilling": "80%",
+		"prd_38_championSake": "N/A",
+		"prd_38_sku": "NSI-40",
+		"prd_38_tags": "Food pairing examples: White meat sashimi,Kumiage Tofu, Sushi,soba noodles, pasta.",
+
+		"prd_39_name": "Mutsu-Hassen Black label",
+		"prd_39_brewerName": "Hachinohe Shuzo",
+		"prd_39_desc": "Displays a hint of sake's natural golden color, and exudes plumes of fresh, juicy apple aromatics. The sake also has a refreshing acidity that melts gently into a sea of umami, allowing it to be very adaptable in many different pairings. ",
+		"prd_39_type": "Junmai Ginjo",
+		"prd_39_alc": "16%",
+		"prd_39_smv": "+1",
+		"prd_39_acidity": "1.3",
+		"prd_39_riceBrand": "Hanafubuki",
+		"prd_39_riceMilling": "55%",
+		"prd_39_championSake": "The Fine Sake Awards Japan 2019 Premium Junmai GOLD, Kura Master France GOLD, US National Sake Appraisals GOLD, London Sake Challenge 2020 GOLD, International Wine Challenge SILVER",
+		"prd_39_sku": "NSI-53",
+		"prd_39_tags": "Tempura, sweet shrimp, king crab, fried chicken, ginger pork, chicken salad, chicken served with full grain mustard, red fleshed fish sashimi, baked salmon.",
+
+		"prd_40_name": "Miyakanbai Junmai Daiginjo",
+		"prd_40_brewerName": "Kanbai Shuzo",
+		"prd_40_desc": "The rich flavor warms the heart. Beautiful Junmai Daiginjo Flagship of Kanbai Shuzo, this sake exhibits excellent structure with clean and refreshing acidity on the finish.",
+		"prd_40_type": "Junmai Daiginjo",
+		"prd_40_alc": "15%",
+		"prd_40_smv": "+1",
+		"prd_40_acidity": "1.5",
+		"prd_40_riceBrand": "Miyamanishiki",
+		"prd_40_riceMilling": "45%",
+		"prd_40_championSake": "-",
+		"prd_40_sku": "NSI-36",
+		"prd_40_tags": "Finish is moderately dry & this sake matches well with richer cuts of maguro & grilled wagyu.",
+
+		"prd_41_name": "Miyakanbai Junmai Ginjo",
+		"prd_41_brewerName": "Kanbai Shuzo",
+		"prd_41_desc": "A gorgeous ginjo fragrance that makes you feel fruits and flowers, and a taste of ripe rice that spreads freshly. The lingering taste is moderate, yes it remains faint yet sharp. This is one of the gems and is the Miyakanbai collection.",
+		"prd_41_type": "Junmai Ginjo",
+		"prd_41_alc": "15%",
+		"prd_41_smv": "+3",
+		"prd_41_acidity": "1.5",
+		"prd_41_riceBrand": "Miyamanishiki",
+		"prd_41_riceMilling": "55%",
+		"prd_41_championSake": "-",
+		"prd_41_sku": "NSI-35",
+		"prd_41_tags": "Pasta, Salads, White Fish, Grilled Fish.",
+
+		"prd_42_name": "Hakurou Kara Kara Honjozo",
+		"prd_42_brewerName": "Sawada Shuzo",
+		"prd_42_desc": "[300ml] It is a very dry sake with +10 SMV, but it is also rich and full of flavor. \u201cKara\u201d of \u201dKara Kara\u201d means \u201cDry\u201d in Japanese. This is the most popular Hakurou sake among the locals in Aichi prefecture. Is is a winner of the local hot sake challenge. ",
+		"prd_42_type": "Honjozo",
+		"prd_42_alc": "16%",
+		"prd_42_smv": "+10",
+		"prd_42_acidity": "1.4",
+		"prd_42_riceBrand": "Gohyakumangoku",
+		"prd_42_riceMilling": "65%",
+		"prd_42_championSake": "Kansaki ( Hot Sake ) Winner 2020.",
+		"prd_42_sku": "NSI-49",
+		"prd_42_tags": "It goes well with hot pots and dishes with strong flavors.",
+
+		"prd_43_name": "Yuzu no Kimozu",
+		"prd_43_brewerName": "Kanbai Shuzo",
+		"prd_43_desc": "Beautiful and refreshing Sparkling Yuzu is bursting with flavor. Yuzo no Kimozu means 'Feeling of Yuzu' in the local Miyagi Dialect. There is an abundance of Yuzu fruit in the bottle, with Yuzu from the Sendai Village mountains.",
+		"prd_43_type": "Sparkling Yuzu",
+		"prd_43_alc": "8%",
+		"prd_43_smv": "-",
+		"prd_43_acidity": "-",
+		"prd_43_riceBrand": "N/A - Yuzu Fruit",
+		"prd_43_riceMilling": "-",
+		"prd_43_championSake": "-",
+		"prd_43_sku": "NSI-57",
+		"prd_43_tags": "330ml - On the rocks, all year round!",
+
+		"prd_44_name": "Mutsu-Hassen Natural Sparkling Sec",
+		"prd_44_brewerName": "Hachinohe Shuzo",
+		"prd_44_desc": "Natural 'Sparkling Sec' from the Hachinohe brewery is perfect for anyone new to sake looking for something easy to drink. It offers a moderate sweetness and fine bubbles for a smooth and easy drinking experience",
+		"prd_44_type": "Junmai",
+		"prd_44_alc": "13%",
+		"prd_44_smv": "-20",
+		"prd_44_acidity": "3.0",
+		"prd_44_riceBrand": "Local Hanabuki",
+		"prd_44_riceMilling": "55%",
+		"prd_44_championSake": "Kura Master 2019 Platinum Winner, International Wine Challenge Bronze 2018, ",
+		"prd_44_sku": "NSI-62",
+		"prd_44_tags": "Grilled sardines with cheese, omelettes",
+
+		"prd_45_name": "Echizen Misaki STARK KAISER",
+		"prd_45_brewerName": "Tanabe Shuzo",
+		"prd_45_desc": "The result is a sake that is rough and powerful, yet soft and crisp.A wonderful dry junmai-shu designed to be enjoyed with both Japanese and Western food. It's a dry sake with a crisp and clean taste that combines softness and strength with the mellow taste of the rice. It is a dry sake with a clean and crisp taste.",
+		"prd_45_type": "Junmai ",
+		"prd_45_alc": "16%",
+		"prd_45_smv": "+10",
+		"prd_45_acidity": "1.5",
+		"prd_45_riceBrand": "Yamada Nishiki",
+		"prd_45_riceMilling": "60%",
+		"prd_45_championSake": "N/A",
+		"prd_45_sku": "NSI-64",
+		"prd_45_tags": "White Fish, Pasta, Sushi, Cream Dishes etc.",
+
+		"prd_47_name": "ZAKU Junmai Daiginjo Kaizen Ittekisui",
+		"prd_47_brewerName": "Shimizu Seizaburo Shoten",
+		"prd_47_desc": "Beautiful nose of pear and white flowers. Lychee, mint, green apple. Bright palate and candied pineapple. Ripe, red apple. Silky textures, elegant and balanced acidity. Pure and clean.     Company's comments: Using Yamadanishiki rice, which is most suitable for sake making, it is milled up to 40% of the rice grain and brewed slowly at low temperature. It is Junmai Daiginjo, which has a noble and dignified taste and a good lingering aftertaste, just like \u69d0 (enju), which has been called a noble tree since ancient times.",
+		"prd_47_type": "Junmai Daiginjo",
+		"prd_47_alc": "16%",
+		"prd_47_smv": "-",
+		"prd_47_acidity": "-",
+		"prd_47_riceBrand": "Yamadanishiki",
+		"prd_47_riceMilling": "40%",
+		"prd_47_championSake": "IWC 2018 Gold,Mie Junmai Daiginjo Trophy, 2020 U.S. National Sake Appraisal",
+		"prd_47_sku": "NSI-82",
+		"prd_47_tags": "Cream soup based fish, Saute in butter, Caprese of water buffalo mozzarella.",
+
+		"prd_48_name": "KID Junmai Daiginjo",
+		"prd_48_brewerName": "Heiwa Shuzo",
+		"prd_48_desc": "Aromas of strawberry, cotton candy and mango give way to a soft, yet vibrant sensation on the palate. \u201cKID\u201d Junmai Daiginjo has well balanced acidity that gives way to a clean finish.",
+		"prd_48_type": "Junmai Daiginjo",
+		"prd_48_alc": "15%",
+		"prd_48_smv": "+2",
+		"prd_48_acidity": "1.3",
+		"prd_48_riceBrand": "Yamadanishiki",
+		"prd_48_riceMilling": "50%",
+		"prd_48_championSake": "",
+		"prd_48_sku": "NSI-98",
+		"prd_48_tags": "Cream soup based fish, Saute in butter, Caprese of water buffalo mozzarella.",
+
+		"prd_49_name": "KID Sparkling Junmai Daiginjo",
+		"prd_49_brewerName": "Heiwa Shuzo",
+		"prd_49_desc": "This sparkling Sake from Wakayama has a creamy texture, fresh citrus notes and invigorating finish. There are notes of lime and ripe apple on the nose and flavours of coconut, white flowers, honey melon and rice with bold bubbles, fine mousse. Clean and fresh aftertaste",
+		"prd_49_type": "Junmai Daiginjo",
+		"prd_49_alc": "14%",
+		"prd_49_smv": "+2",
+		"prd_49_acidity": "1.3",
+		"prd_49_riceBrand": "Yamadanishiki",
+		"prd_49_riceMilling": "50%",
+		"prd_49_championSake": "Best Sparkling Sake at the 2019 International Wine Challenge.(GOLD)",
+		"prd_49_sku": "NSI-99",
+		"prd_49_tags": "Cream soup based fish, Saute in butter, Caprese of water buffalo mozzarella.",
+
+		"prd_46_name": "ZAKU SATORI Junmai Daiginjo Shizukudori (Prestige Curvèe)",
+		"prd_46_brewerName": "Shimizu Seizaburo Shoten",
+		"prd_46_desc": "This sake has a silky soft texture, a full and deep flavour and an elegant, jewel-like aroma. Youthful yet full of dignity, this is our brewery’s most prized Junmai Daiginjo sake. It was chosen as the toast of the 42nd G7 Summit, held in Ise-shima in 2016.",
+		"prd_46_type": "Junmai Daiginjo",
+		"prd_46_alc": "16%",
+		"prd_46_smv": "-",
+		"prd_46_acidity": "1.5",
+		"prd_46_riceBrand": "Yamada Nishiki",
+		"prd_46_riceMilling": "60%",
+		"prd_46_championSake": "N/A",
+		"prd_46_sku": "NSI-XX",
+		"prd_46_tags": "French Food, Fine Dining Meals, Fish, White Meat"
+	},
+	"brewery": {
+		"selectBreweryLabel": "Select brewery",
+		"priceLabel": "Price",
+		"companyDetailsLabel": "Company Details",
+		"yearFoundedLabel": "YEAR FOUNDED",
+		"addressLabel": "ADDRESS",
+		"websiteLabel": "WEBSITE",
+		"vistThisGalleryLabel": "VISIT THE GALLERY",
+		"galleryLabel": "GALLERY",
+		"breweryProductsLabel": "brewery products",
+		"brewery_01_title": "SUMIKAWA",
+		"brewery_01_prefecture": "Hagi City, Yamaguchi prefecture",
+		"brewery_01_shortDesc": "Aspiring to \u201creflect the clear water that permeates the rice stalks\u201d, Chief Operator and Head Brewer Takafumi Sumikawa brings a high pedigree ...",
+		"brewery_01_content": [{
+			"label": "Brewer of \u201cToyo Bijin\u201d",
+			"content": "Aspiring to \u201creflect the clear water that permeates the rice stalks\u201d, Chief Operator and Head Brewer Takafumi Sumikawa brings a high pedigree, after undertaking training at the much-lauded Takagi brewery \u2013 renowned for its Juuyon-dai brand \u2013 and being named top brewer of his generation. Toyobijin has charmed and fascinated fans both within Japan and across the globe, attracting still more attention through the practice of cultivating specific varieties of sake rice under contract with local farms \u2013 notably Yamada Nishiki, Sakemirai, Aiyama, Omachi, and Kameji. In a cruel twist of fate, torrential rainfall in July of 2013 resulted in the brewery suffering catastrophic damage, after being engulfed in a landslide consisting of a two-meter-high wall of gravel. Garnering support from the length and breadth of Japan allowed them to carry out a miraculous recovery operation, but the road back to full production has been a slow one. Nevertheless, they continue to pursue a passion for brewing captivating sake."
+		}, {
+			"label": "Toyobijin Charm",
+			"content": "Toyobijin has charmed and fascinated fans both within Japan and across the globe, attracting still more attention through the practice of cultivating specific varieties of sake rice under contract with local farms \u2013 notably Yamada Nishiki, Sakemirai, Aiyama, Omachi, and Kameji."
+		}],
+		"brewery_01_moreInfo": [{
+			"label": "Prizes",
+			"content": "Began being served in JAL\u2019s International Business Class in 2006. It was selected as the official Japanese sake for the FIFA World Cup In 2010 & 2014. In 2013, it won 1st place in 2 categories, the Junmai Daiginjo division and the Kimoto and Yamahai division, at the SAKE COMPETITION!"
+		}, {
+			"label": "Commitment",
+			"content": "With is floral and fruity flavor notes, this is an ideal sake to serve to someone who has never drunk sake before. This is expressed by the slogan, \u201cFrom no cups ever to the first cup."
+		}],
+		"brewery_01_companyInfo": {
+			"name": "SUMIKAWA BREWERY CO.,LTD.",
+			"year_founded": "1892",
+			"website": "https://kikizakeweb.com/en/kuramotolist/brewery5/",
+			"address": "Hagi City, Yamaguchi prefecture, Japan"
+		},
+		"brewery_02_title": "ARISAWA",
+		"brewery_02_prefecture": "Kami City, Kochi Prefecture",
+		"brewery_02_shortDesc": "ARISAWA is founded in 1877, this brewery is located in Tosayamada-cho, Kami City, in regional Kochi Prefecture \u2013 an historical commercial hub. ",
+		"brewery_02_content": [{
+			"label": "Brewer of \u201cBunkajin",
+			"content": "Founded in 1877, this brewery is located in Tosayamada-cho, Kami City, in regional Kochi Prefecture \u2013 an historical commercial hub. The current Head Brewer, Kosuke Arisawa, is the fifth to occupy the role, and takes a hands-on approach to the production process along with his wife. This dedication has resulted in a long list of accolades, including successive gold medals at the Japan Sake Competition, and top placing in the new Shikoku regional competition."
+		}, {
+			"label": "This brewery is managed by a husband and wife team.",
+			"content": "Founded in 1877, this brewery is located in Tosayamada-cho, Kami City, in regional Kochi Prefecture \u2013 an historical commercial hub. The current Head Brewer, Kosuke Arisawa, is the fifth to occupy the role, and takes a hands-on approach to the production process along with his wife."
+		}],
+		"brewery_02_prizes": "Successive gold medals at the Japan Sake Competition, and top placing in the new Shikoku regional competition.",
+		"brewery_02_moreInfo": [{
+			"label": "Prizes",
+			"content": "Successive gold medals at the Japan Sake Competition, and top placing in the new Shikoku regional competition."
+		}, {
+			"label": "Kochi",
+			"content": "This family owned brewery has been running for more than 110 years in Fushimi, Kyoto where is well known for its some of the purest underground spring water."
+		}],
+		"brewery_02_companyInfo": {
+			"name": "ARISAWA CO.,LTD.",
+			"year_founded": "1877",
+			"website": "https://kikizakeweb.com/en/kuramotolist/brewery4/",
+			"address": "Kami City, Kochi Prefecture, Japan"
+		},
+		"brewery_03_title": "IMAZATO",
+		"brewery_03_prefecture": "Hasami cho, Higashisonogi District, Nagasaki Prefecture",
+		"brewery_03_shortDesc": "Located in the town of Hasami \u2013 renowned for its local style of pottery \u2013 in the Higashisonogi District, northern Nagasaki Prefecture, this brewery is situated in a basin ringed by 400-meter-high mountains \u2013 the tallest being Mt. Unzen \u2013 which makes it suitable for brewing sake. ",
+		"brewery_03_content": [{
+			"label": "Brewer of  \u201cRokuju-Yoshu\u201d",
+			"content": "Located in the town of Hasami \u2013 renowned for its local style of pottery \u2013 in the Higashisonogi District, northern Nagasaki Prefecture, this brewery is situated in a basin ringed by 400-meter-high mountains \u2013 the tallest being Mt. Unzen \u2013 which makes it suitable for brewing sake. Demonstrating a talent for high quality and consistency have seen them rewarded with first place in the regional Liquor Review Committee \u2013 which combines Fukuoka, Saga, and Nagasaki Prefectures \u2013 as well as an astonishing ten consecutive wins at the rigorous Sake Competition, multiple golds in each year of the U.S. National Sake Appraisal, and many more. "
+		}, {
+			"label": "The brewery registered as a tangible cultural asset.",
+			"content": "Located in the town of Hasami \u2013 renowned for its local style of pottery \u2013 in the Higashisonogi District, northern Nagasaki Prefecture, this brewery is situated in a basin ringed by 400-meter-high mountains \u2013 the tallest being Mt. Unzen \u2013 which makes it suitable for brewing sake. Having been steadily expanded since the later part of the Edo period, the brewery premises now consists of more than ten distinct buildings, six of which have been registered as tangible cultural assets. "
+		}],
+		"brewery_03_moreInfo": [{
+			"label": "Prizes",
+			"content": "Both \u201cJunmaishu Yamadanishiki\u201d and \u201cJunmai Ginjo Yamadanishiki\u201d received gold prizes for two consecutive years (2012 and 2013) at the U.S. National Sake Appraisal! In 2014, \u201cJunmai-shu Yamada Nishiki \u201cwas honored as top-ranking prizewinner at the Fukuoka Sake Awards!"
+		}, {
+			"label": "Nagasaki",
+			"content": "With its name a reference to the sixty distinct and contested states that once spread across the islands of Japan, \u201cRokuju-Yoshu\u201d means  the \u2018Whole Nation of Japan\u2019.  Kuramoto says that \u201cI hope that Japanese people all over Japan drink our sake"
+		}],
+		"brewery_03_companyInfo": {
+			"name": "IMAZATO BREWERY CO.,LTD.",
+			"year_founded": "1876",
+			"website": "https://kikizakeweb.com/en/kuramotolist/brewery1/",
+			"address": "Higashisonogi District, Nagasaki-ken 859-3715, Japan"
+		},
+		"brewery_04_title": "HAGINO SHUZO",
+		"brewery_04_prefecture": "Kurihara City, Miyagi prefecture",
+		"brewery_04_shortDesc": "The name Hagi no Tsuru is derived from the old name for the town where the brewery was first situated \u2013 originally Hagi no Mura, \u2018The Town of the Blush Clover\u2019 \u2013 now referred to as Kannari Arikabe.",
+		"brewery_04_content": [{
+			"label": "Brewer of \u201cHagi no Tsuru\u201d and \u201cHiwata\u201d",
+			"content": "Founded in 1840, the name Hagi no Tsuru is derived from the old name for the town where the brewery was first situated \u2013 originally Hagi no Mura, \u2018The Town of the Blush Clover\u2019 \u2013 now referred to as Kannari Arikabe. This was the first brewery in Miyagi Prefecture to move into specific grades of sake, after pioneering figure Yohei Sato acquired three decades of working experience in other breweries. Upon returning and assuming the role of Chief Operator in 2002, the Hiwata label was born, specializing in yamahai-style sake. It takes the name from the traditional circular rice field, wherein sacred rice is grown specifically for dedication to the gods, and is intended to promote a similar communal celebration of life among its drinkers. Like the man itself, this sake doesn\u2019t aspire to high fashion, but is content to promote the sense of comfort and familiarity one derives from a favorite old jacket. At the same time, his dedication to the latest brewing advances and storage technology leads to a perfect marriage of \u201cclassic brewing methods and modern management\u201d, ensuring that its followers are never fatigued by any one aspect."
+		}, {
+			"label": "The pioneering brewer of Miyagi sake",
+			"content": "Founded in 1840, the name Hagi no Tsuru is derived from the old name for the town where the brewery was first situated \u2013 originally Hagi no Mura, \u2018The Town of the Blush Clover\u2019 \u2013 now referred to as Kannari Arikabe. This was the first brewery in Miyagi Prefecture to move into specific grades of sake, after pioneering figure Yohei Sato acquired three decades of working experience in other breweries."
+		}],
+		"brewery_04_moreInfo": [{
+			"label": "Prizes",
+			"content": "in 2016, \u201cHagi-no-tsuru Sakura Cat label\u201d got a Parker Point score of 90 out of 100. In 2017, \u201cHagi-no-tsuru\u201d won a gold medal at the the Annual Japan Sake Awards"
+		}],
+		"brewery_04_companyInfo": {
+			"name": "HAGINO SHUZO CO.,LTD.",
+			"year_founded": "1840",
+			"address": "Kurihara City, Miyagi prefecture, Japan",
+			"website": "https://kikizakeweb.com/en/kuramotolist/brewery13/"
+		},
+		"brewery_05_title": "Takizawa Brewing",
+		"brewery_05_prefecture": "Fukaya, Saitama",
+		"brewery_05_shortDesc": "Traditional brewing in an old fashioned manner, steaming rice, making Koji and Moromi.",
+		"brewery_05_content": [{
+			"label": "Since 1863",
+			"content": "Takizawa Brewing Company, Ltd. is established at Ogawa-town Saitama prefecture in 1863. We moved to Fukaya-city in 1900. We succeed to traditional brewing in an old fashioned manner, steaming rice, making Koji and Moromi. Brewing staffs cherish teamwork. Good teamwork brings fine sake, and fine sake causes good teamwork. We brew sake with a single purpose."
+		}],
+		"brewery_05_moreInfo": [],
+		"brewery_05_companyInfo": {
+			"name": "Takizawa Brewing Company, Ltd.",
+			"year_founded": "1863",
+			"website": "https://www.kikuizumi.com",
+			"address": "9-20, tadokoro-cho Fukaya-cty Saitama-Pref. Japan"
+		},
+		"brewery_06_title": "Hata Shuzo",
+		"brewery_06_prefecture": "Higashi\u014dmi-shi, Shiga Prefecture",
+		"brewery_06_shortDesc": "This brewery relies on the unique taste of their sake, which has gained a cultish following and respect ...",
+		"brewery_06_content": [{
+			"label": "Since 1914 - Small in size. BIG i flavor",
+			"content": "Hata Sake Brewery was a liquor store in Shiga Prefecture before becoming a sake brewery. This tiny brewery, one of the smallest in Shiga, is focused on making unique sake and doesn\u2019t concern itself with traditional marketing. Instead, the brewery relies on the unique taste of their sake, which has gained a cultish following and respect from industry experts in Japan. Daijiro sake is rich with umami flavors, full-bodied, and has a subtle sweetness that is brought into balance by it\u2019s high acidity. The characteristics of this sake make it one of the best to pair with heavy and rich foods."
+		}],
+		"brewery_06_moreInfo": [{
+			"label": "Daijiro - A brand new mission",
+			"content": "'Kiryoyoshi' was the original brand at Hata Sake Brewery, but in 1999, a new brand, 'Daijiro', was launched. The new name was given by a monk who recognized that the orginial owner of Hata Sake Brewery and the current owner/toji, share the same name - Daijiro. The mission of the new brand was twofold. First, make sake that pairs well with food. Second, make sake that takes advantage of the 'terroir' in the Higashi-Omi, where Hata is located. Rice is grown locally by a special team of farmers called 'Donbyakusho-no-Kai', who have strict standards about the use of pesticides. Even the labels used on the sake bottles are made of a special paper that comes from local oak trees.  Wanting to build partnerships with retail stores and restaurants that understand and appreciate their unique sake and 'local' philosophy, Hata Sake Brewery bypasses wholesale distributors and works directly with their customers."
+		}, {
+			"label": "19-Year-old Sake project",
+			"content": "Hata Sake Brewery has recently started a project for 19-year-old students. The goal of the project is to bring together local teens, who are 19 years old and expose them to the sake brewing process. The teens experience the entire brewing cycle from growing and harvesting rice to brewing, bottling, and packing. When the brewing cycle is over, and the teens have turned 20, the legal drinking age in Japan, they will have their first experience with sake. This project engages the younger generation, creating a positive experience around sake.  It also allows Hata Sake Brewery to give back to the community that has supported the brewery for generations."
+		}, {
+			"label": "Sake Style",
+			"content": "big, full-bodied, rich umami, high acidity, balanced"
+		}],
+		"brewery_06_companyInfo": {
+			"name": "Hata Brewery Co., Ltd.",
+			"year_founded": "1914",
+			"website": "-",
+			"address": "1410, Owaki-Cho, Higashiomi City, Shiga prefecture, Japan"
+		},
+		"brewery_07_title": "Shidaizumi Shuzo",
+		"brewery_07_prefecture": "Chubu, Shizuoka Prefecture",
+		"brewery_07_shortDesc": "Shidaizumi got an early start on brewing \u201cginjo\u201d style sake, which they began shortly after WW II. As pioneers in this new style of brewing  ...",
+		"brewery_07_content": [{
+			"label": "The name Shidaizumi",
+			"content": "Shidaizumi Sake Brewery as founded in 1882.  The first generation owner, Kusaku Mochizuki, made sake each year from rice that was leftover from the harvest.  As making sake became a passion, the owner went in search of a good location to brew sake.  When he reached a mountainous region call Miyahara, where the Seto river flows, he decided this was the ideal location.  To this day, those who live in the Miyahara area use the underground well water as their source of water.  The name Shidaizumi reflects that idea that the brewery would like to make sake with a bold spirit that flows like a fountain."
+		}],
+		"brewery_07_moreInfo": [{
+			"label": "Sake Stype  - Clean water of Takase River",
+			"content": "High quality water is a feature every sake brewery wants, but not all breweries have the ideal water for the style of sake they want to make.  Shidaizumi is blessed with an amazing water source in the Takase River and the below ground wells.  The water is soft, which is good for \u201cginjo\u201d style sake, and the water is incredibly clean, so much so that it does not require any filtering.  The quality of the water and cold winter climate are perfect for long and slow fermentations, which is a key brewing technique for the light, delicate, and aromatic sake produced by Shidaizumi."
+		}, {
+			"label": "Shizuoka Ginjo (Premium Sake) Noto Toji",
+			"content": "Shidaizumi got an early start on brewing \u201cginjo\u201d style sake, which they began shortly after WW II.  As pioneers in this new style of brewing, they were quick to receive accolades for the high quality of their sake.  In 1968, Shidaizumi won a gold award at the Tokyo University of Agriculture Product Review, which is said to be the most prestigious Japanese sake award.  In 1984, they also won gold awards for three consecutive years at the National Research Institute of Sake Brewing, a contest where they have received a total of 20 awards.  The outlook for Shidaizumi and their \u201cginjo\u201d style sake remains bright as the current toji, or brew master, has studied under the Noto style of sake making, which is recognized as being one of the best methods for producing \u201cginjo\u201d style sake.  Nodo experience, combined with the legacy of \u201cginjo\u201d sake making at Shidaizumi means there is lot of wonderful sake to come from this brewery."
+		}, {
+			"label": "Early morning rice steaming",
+			"content": "During the brewing period, Shidaizumi Sake Brewery starts the process earlier than any other sake breweries. They start the work as early as 4 in the morning. While other sake breweries begin to steam their sake rice after the sunrise, Shidaizumi Sake Brewery starts the steaming process in the coldest part of the day before the dawn. This is because they aim to finish the steaming of rice and cooled it with natural cold air to produce a hard-outer part while it is soft inside, as this is the best condition for a sake rice. When the sun rises at around 7 AM, the main in the entire brewery is about keeping things neat and clean. By just taking this episode at the work of ginjo sake in Shidaizumi Sake brewery, you can already imagine how hard diligent they operate. "
+		}],
+		"brewery_07_companyInfo": {
+			"name": "Shidaizumi Brewery Co., Ltd.",
+			"year_founded": "1882",
+			"website": "http://www.shidaizumi.com",
+			"address": "Miyahara 423-22-1, Hujieda, Shizuoka, Japan"
+		},
+		"brewery_08_title": "Miyoshino Shuzo",
+		"brewery_08_prefecture": "Kinki, Nara Prefecture",
+		"brewery_08_shortDesc": "Miyoshino is located in Nara along the bank of the Yoshino river. When Miyoshino was initially set up, they were 4 separate kura that merged into a single kura in 1912 ...",
+		"brewery_08_content": [{
+			"label": "Terroir",
+			"content": "Miyoshino is located on the Kii Peninsula in Nara prefecture.  This area is particularly humid, making it difficult to make lighter and delicate styles of sake.  As these lighter, delicate styles of sake are popular, brewers try to control many of the brewing steps to make this style sake.  The toji at Miyoshino has chosen a different path.  He embraces this environment.  Many of his sake products use only natural, ambient yeasts and lactic bacteria, which are abundant in humid environments.  Seeing this challenging terroir as an advantage, instead of a disadvantage, allows the toji to make incredibly unique and complex sake."
+		}],
+		"brewery_08_moreInfo": [{
+			"label": "Rice Philosophy",
+			"content": "To make his unique style of sake at Miyoshino, the toji, Teruaki Hashimoto, believes that one can\u2019t simply organize rice by rice varietal.  To brew without understanding the source of the rice, one can lose the nuances in flavor.  He explains that rice grown at the foot of the mountains is very different from the plains.  Mountain rice utilizes cold, run-off water from the mountain and receives less sunlight.  In contrast, rice grown in the plains has more sunlight, and water comes from ponds and rivers.  The differences in these conditions result in different characteristics in the rice, which is why you can\u2019t simply group rice by strain.  Miyoshino has farm-direct contracts with each farmer to understand the rice and how it is grown, so the toji can apply the best brewing techniques to each type of rice.  This application of techniques goes for the rice polishing, where the toji chooses polishing rate by rice field, not by variety, to finding the right moto technique to bring out the best expressions of the rice."
+		}, {
+			"label": "Natural Yeasts and Lactic Bacteria",
+			"content": "Many of the unique characteristics in Hanatomoe sake, including the rich umami flavors and high acidity come from their use of natural, ambient yeasts and lactic bacteria in the the brewery.  For their kimoto and yamahai products, which make up most of their sake assortment, Miyoshino does not use any cultivated yeasts in these products.  The toji believes that the use of natural yeasts and lactic bacteria are the purest way to understand how different moto methods impart flavor to sake.  The use of natural yeasts and bacteria is just a further extension of the \u201cterrior\u201d concept that uses local rice and the natural environment in a harmonious way to produce a sake the represents the essence of the Kii Peninsula."
+		}],
+		"brewery_08_companyInfo": {
+			"name": "Miyoshino Brewery Co., Ltd.",
+			"year_founded": "1912",
+			"website": "",
+			"address": "1238-1 Muda, Yoshino, Yoshino District, Nara 639-3116, Japan"
+		},
+		"brewery_09_title": "Shimaoka Shuzo",
+		"brewery_09_prefecture": "Kanto, Gunma Prefecture",
+		"brewery_09_shortDesc": "Shimaoka was founded in 1863, and they are located in Ota, just north of the Tone river ...",
+		"brewery_09_content": [{
+			"label": "Since 1863",
+			"content": "Ohta city, Gunma Pref. where Gunmaizumi is situated dates back to 14th century. These days Ohta city is the home town of Subaru. This town also has one of the largest populations of Brazilian people in Japan. Most of them are working in the Subaru factory. Around Ohta city, people like to drink hot Sake to counteract the very cold, windy winters.   The result is that at Gunmaizumi they aim produce Sake that has more Umami at warm temperatures. The water is hard, which tends to produce a dry Sake. At this brewery, 80% of the rice that is used is the brewers\u2019 rice Wakamizu, which is locally grown. They import some Yamadanishiki for their daiginjo. Most of the Gunmaizumi Sake is made using Yamahai method. This brewery\u2019s skill in its use of this method sets it apart from the others. Yamahai offers a complex, dense and earthy set of aromas, some of which are carried on to the finished Sake, which also has higher levels of organic and amino acids."
+		}],
+		"brewery_09_moreInfo": [{
+			"label": "History",
+			"content": "Shimaoka was founded in 1863, and they are located in Ota, just north of the Tone river. The methods they use to produce sake are the same as they used when the brewery was founded. They focus on Yamahai and Kimoto sake."
+		}, {
+			"label": "Local Water",
+			"content": "In addition to excellent sake making artistry, the most important ingredient that goes into this sake is the water which is from a local well in Akagiyama.  The content of this local water is high in minerals that give the Gunma Izumi sakes a round rich mouth feel that pairs well with food.   They also age all their sake anywhere from 1 to 3 years which adds depth and color for which this brewery is known.  This sakagura (brewery) is famous for their traditional style of brewing called Yamahai, using only the natural yeast that has built up in the brewery over many generations."
+		}, {
+			"label": "Historical Fire",
+			"content": "Part of the brewery was severely damaged by fire at the turn of the century.  Because of the importance of the Sakagura to the community, the local townspeople helped to rebuild that which was lost and keep their beloved brewery."
+		}],
+		"brewery_09_companyInfo": {
+			"name": "Shimaoka Brewery Co., Ltd.",
+			"year_founded": "1863",
+			"website": "",
+			"address": "Yuracho 375-2, Ota, Gunma, Japan"
+		},
+		"brewery_10_title": "Sawada Shuzo",
+		"brewery_10_prefecture": "Chubu, Aichi Prefecture",
+		"brewery_10_shortDesc": "Sawada Shuzo based in a pottery town named Tokoname in Chita Peninsula continues to embrace its long history as premium sake brewery ...",
+		"brewery_10_content": [{
+			"label": "History",
+			"content": "Persistently in pursuit of making the finest sake through the use of traditional manual techniques and tools including wagama, kigoshiki and k\u014djibuta. Since its inception in 1848, the first year of the Kaei Era, Sawada Shuzo based in a pottery town named Tokoname in Chita Peninsula continues to embrace its long history as premium sake brewery by retaining the good old traditional skills applied in the fully hand-made production to this day. HAKUROU is born from the earnest interaction between the brewer and the microorganisms living in k\u014dji (cultured rice with k\u014dji fungus) and k\u014dbo (yeast) that have been created from carefully selected rice and water."
+		}],
+		"brewery_10_moreInfo": [{
+			"label": "Origin of  'HAKUROU' \uff08\u767d\u8001\uff09",
+			"content": "The kanji character for HAKU \uff08\u767d\uff09 means 'white'.  Polishing rice until it whitens implies the earnest efforts of the brewers to create the best sake possible by handling the key raw material with utmost care.  White is regarded in Japan as a color that brings good fortune and also symbolizes the notion of everlasting continuation. The kanji character for ROU \uff08\u8001\uff09 means 'old'.  It carries the connotation of life extension, perpetual youth, and longevity as well as the seasoned brewers\u2019 accomplished skills."
+		}, {
+			"label": "Steaming Method",
+			"content": "Inside of their Kura, there was a huge wooden steaming vat standing. This is called \u201cKoshiki\u201d in Japanese. They used to steam 1 ton and 200 kilos of rice at once until the bottom of this steamer fell out in 2016. 9 out of 10 fermentation experts around Hidetoshi advised not to use it anymore, but Hidetoshi couldn\u2019t give up on this precious traditional steamer. At that time, there was still one man in Osaka who could make this huge Koshiki. With much hope Hidetoshi asked him to make a new one before his retirement in 2020."
+		}, {
+			"label": "Earthquake Disasters",
+			"content": "Sawada Shuzo was established in 1848, and fell over once in 1854 at the time of T\u014dnankai earthquakes. This was also mentioned in the old diary book they found at the brewery. It\u2019s written that 'a big wave swept our barrels.' and such. After the earthquake, they relocated to the current location: Tokoname city, but there was a big earthquake again in 1944 during the World War II and they had to restore the brewery one more time."
+		}],
+		"brewery_10_companyInfo": {
+			"name": "Sawada Shuzo Brewery Co., Ltd.",
+			"year_founded": "1848",
+			"website": "",
+			"address": "4 Chome-10 Kobacho, Tokoname, Aichi, Japan"
+		},
+		"brewery_11_title": "Itakura Shuzo",
+		"brewery_11_prefecture": "Izumo City, Shimane Prefecture",
+		"brewery_11_shortDesc": "Legend has it that every October, Japan\u2019s gods gather at Izumo\u2019s Saka Shrine to brew sake ...",
+		"brewery_11_content": [{
+			"label": "Land of the Sake Gods",
+			"content": "Itakura Shuzo is located in Shimane Prefecture\u2019s Izumo City, a spiritual heartland celebrated throughout Japanese mythology, but more importantly, one of the birthplaces of sake. Legend has it that every October, Japan\u2019s gods gather at Izumo\u2019s Saka Shrine to brew sake which is followed by a massive party. The brewery goes to great lengths to impart some of this mythology into their brewing formula. They use Saka Nishiki rice, which takes its name from the shrine and is grown exclusively in Shimane Prefecture and source their water from the nearby Kitayama mountain range, another spiritual power spot. As you would expect of a brewery with an inextricable connection to the gods, their sake exudes divinity and clarity with depth of flavor in every sip."
+		}],
+		"brewery_11_moreInfo": [{
+			"label": "A New Toji at the Helm",
+			"content": "Current toji (Master Brewer) Kojima Tatsuya\u2019s story is a pretty unprecedented one. While his first season as toji was in the year 2000 at the tender age of just 30, he had worked at the brewery before under the prolific toji, Nagasaki Yoshiji, a major driving force behind the development of the region\u2019s ginjo production. Kojima left to continue honing his ginjo technique, but thanks to a recommendation from one of the senior brewing staff, was recruited back when his predecessor retired."
+		}, {
+			"label": "New Toji Saita Yasuyuki",
+			"content": "Gozenshu is the embodiment of Kojima\u2019s pursuit not of flavour or aroma, but purity; of sake\u2019s true essence. It is the answer he found when he researched the origins of people\u2019s love for the beverage. While it is said that people originally brewed Gozenshu to show their gratitude to the gods for blessing them with nature, it was not just for that purpose. It was also thought that when you drunk Gozenshu you consumed natural energy which purified your body and gave you the power to find peace within yourself. The brand Tenon is named after the Buddhist sutra Mukyu Tenon which teaches that peace in heaven is peace on earth. Both these brands are a reflection of sake\u2019s true essence and the profound spirit at the heart of Kojima\u2019s innovative brewing philosophy."
+		}],
+		"brewery_11_companyInfo": {
+			"name": "Itakura Shuzo Brewery Co., Ltd.",
+			"year_founded": "1871",
+			"website": "http://www.tenon.jp",
+			"address": "468 Enyacho, Izumo, Shimane 693-0021, Japan"
+		},
+		"brewery_12_title": "Tanabe Shuzo",
+		"brewery_12_prefecture": "Yoshida, Fukui Prefecture",
+		"brewery_12_shortDesc": "Tanabe Sake brewery is located in Eiheiji Town, the gateway to the world famous Eiheiji Temple, a head temple of the Soto School of Buddhism built in 1244 ...",
+		"brewery_12_content": [{
+			"label": "Eiheiji Temple\u2019s Purveyor",
+			"content": "Tanabe Sake brewery is located in Eiheiji Town, the gateway to the world famous Eiheiji Temple, a head temple of the Soto School of Buddhism built in 1244. Nicknamed \u201cthe clear stream town\u201d after its location beside the crystal-clear waters of the Kuzuryu River, the temple is one of the keys to the town\u2019s prosperity. The other is brewing. In its Showa heyday, it was home to as many as 17 breweries, but only two survived sake\u2019s decline in popularity. One is Kokuryu Shuzo. Tanabe Sake Brewery is the other. Like its neighbour it earned fame as a pioneer of ginjo brewing and is cherished by the local people as the Temple\u2019s venerable sake purveyor."
+		}],
+		"brewery_12_moreInfo": [{
+			"label": "A New Brand: Echizen Misaki",
+			"content": "As sake went into decline and production orders from bigger breweries dried up in 1987, the then CEO and toji got together and decided to specialize in small-yield ginjo brewing that would bring joy to the local people. Tanabe Sake Brewery\u2019s home of Fukui Prefecture is famed as a snowy tundra, particularly in the north where winter can be particularly harsh. However it is this cold climate and the crystal-clear waters of the nearby Kuzuryu River that provide the perfect conditions for ginjo brewing; slow ferments at cold temperatures, to produce the brewery\u2019s signature dignified exquisite flavor-profile inspired by the picturesque scenery of daffodils that even in extreme cold, bloom along the region\u2019s famed Echizen Cape after which the brand is named. The brewery embodies this same uncompromising spirit in their brewing. Polishing their rice to as low as 56%, Tanabe Sake Brewery are quickly establishing themselves as the region\u2019s gold standard in ginjo brewing."
+		}, {
+			"label": "The Ginjo Brothers",
+			"content": "The two brothers at the helm of the brewery were born and raised in it. The eldest, Takeru studied Nambu-Toji-style brewing under the previous toji Takagi Miyoshi before taking over from him in 2012. His stoic eye for detail is key to honoring the Echizen Misaki brand\u2019s signature characteristics. The youngest Hiroaki runs the brewery itself, and focuses his energy on introducing the world to his brother\u2019s sake. Their different talents are forging an exciting legacy for their family\u2019s brand of ginjo sake. "
+		}, {
+			"label": "Traditional Wooden Press",
+			"content": "The wooden fune press they use to press/filter the sake is one of the more labor-intensive devices. As well as taking three days, it also leaves behind more lees and so is normally reserved for super premium sake, but Tanabe Sake Brewery brew all their sake this way, regardless of class. This method not only gives their sake softness and purity, but also diversity. Whether it\u2019s arabashiri, nakadori or seme, one batch of sake ends up yielding a variety of different expressions. "
+		}],
+		"brewery_12_companyInfo": {
+			"name": "Tabanbe Shuzo Brewery Co., Ltd.",
+			"year_founded": "1899",
+			"website": "http://www.echizenmisaki.com/",
+			"address": "2-24 Matsuka, Japan"
+		},
+		"brewery_13_title": "Hayakawa Shuzo",
+		"brewery_13_prefecture": "Komono, Mie Prefecture",
+		"brewery_13_shortDesc": "The water used in the Sake takes a 30 year journey though granite plates from the mountain  ...",
+		"brewery_13_content": [{
+			"label": "Granite filtered water",
+			"content": "Eighty percent of sake is water, so obviously the water is an important part of sake making.  Water used in Tabika sake starts its journey at the top of Shuzuku Mountain.  As it makes its way to the underground aquifer, which is the well from which Hayakawa draws its water, the journey takes over 30 years.  The water runs slowly through granite plates, which act as a filter.  The water is incredibly pure and requires no filtration."
+		}],
+		"brewery_13_moreInfo": [{
+			"label": "Omachi rice",
+			"content": "The toji, or head brewer, training at the Tokyo Agricultural University, a leading program for training young brewers.  After completing his degree, he worked at a famous brewery called Jokigen, where he learned to work with Omachi rice.  Only a small amount of Omachi rice in grown is Japan.  It is one of a few \u201cpure\u201d sake rice strains.  It is very difficult to work with as it is prone to cracking during the milling process.  Despite the challenge, it produces wonderfully unique flavors that are deep, earthly, and have richer umami characteristics.  Hayakawa has been working with Omachi rice for 15 years.  Their Omachi sake has good richness and a great food pairing range."
+		}, {
+			"label": "Mie taste",
+			"content": "The toji, or head brewer like to bring a sense of Mie \u201cterroir\u201d in his sake.  To do this he uses local yeasts developed by Mie prefecture.  He used MK-1, MK-3, MK-5, and MK-7.  These yeasts have the ability to add wide range of aromas from ginjo style aromas to non-ginjo fruity aromas, and a nice level of acidity, which makes Tabika sake great to pair with food."
+		}],
+		"brewery_13_companyInfo": {
+			"name": "Hayakawa Shuzo Brewery Co., Ltd.",
+			"year_founded": "1915",
+			"website": "http://hayakawa-syuzo.com/",
+			"address": "468 Ojima, Komono, Mie District, Mie 510-1323, Japan"
+		},
+		"brewery_14_title": "MORIKI BREWERY",
+		"brewery_14_prefecture": "Komono, Mie Prefecture",
+		"brewery_14_shortDesc": "Nearly all work in the Moriki Shuz\u014d is done by hand, the same way their sake has been made for centuries  ...",
+		"brewery_14_content": [{
+			"label": "Brewery Landscape",
+			"content": "Known since ancient times as the land of the ninja, Iga is also the town that is home to Moriki Shuz\u014d in the prefecture of Mie. Located in central Japan, Mie faces the Pacific and lies between the cities of Nagoya, \u014csaka and Ky\u014dto. The Mie coastline extends over 1000 kilometers and contains beautiful rugged coasts and beautiful scenery. Mie is rich in nature, and as such over one-third of its area is designated as nature reserves and parks."
+		}],
+		"brewery_14_moreInfo": [{
+			"label": "Rumiko Brand",
+			"content": "Rumiko Moriki is the 4th generation of her family to own the brewery, and along with her husband Hideki, they are not only the Kuramoto [Brewery Owners] of this tiny brewery, they are also the T\u014dji [Master Brewers] of their hand crafted sake. The first generations of the Moriki family had always employed a T\u014dji to create their sake, but during Rumiko's parents generation, times were financially difficult and so out of necessity her parents started working alongside the T\u014dji to make their sake. When Rumiko's father was unable to continue working at the Kura about 25 years ago, Rumiko and Hideki, who had recently married, stepped in and started working alongside the T\u014dji instead.  Nine years later Rumiko and Hideki became the T\u014dji themselves. It was at this time that they committed to making only Junmai [Pure Rice] sake, at the highest level they could achieve.  15 years later the Hanabusa, Tae no Hana and Suppin Rumiko no Sake are the quintessence of their dedication to top quality brewing."
+		}, {
+			"label": "Brewing Philosophy",
+			"content": "Nearly all work in the Moriki Shuz\u014d is done by hand, the same way their sake has been made for centuries. Rumiko's motto is 'a lot of hard work in the making of the best quality sake she can, means being honest to her customers'.  It is truly a remarkable brewery with a wood fired boiler being used to steam the rice, wooden vats full of steamed rice are carried on the Moriki\u2019s and their workers shoulders, including up wooden planks to get the rice into the fermentation tanks.  About 25% of their sake production is from their own organically farmed rice, and the rest is sourced from areas that specialise in the particular rice variety that will produce the best result for the style of sake they wish to brew. The Moriki\u2019s still use Yeast Strain #6 in their sake which is very unusual nowadays, along with allowing wild yeast to start ferment in many of their sake."
+		}],
+		"brewery_14_companyInfo": {
+			"name": "MORIKI BREWERY, Ltd.",
+			"year_founded": "1893",
+			"website": "http://moriki.o.oo7.jp/",
+			"address": "Chitose 41-2, Iga-shi, Mie prefecture Japan"
+		},
+		"brewery_15_title": "Hayashi Brewery",
+		"brewery_15_prefecture": "Kakamigahara-city, Gifu, Prefecture",
+		"brewery_15_shortDesc": "The abundant ultra-soft water of the Japanese Alps makes a gentle liquor with a glossy flavor  ...",
+		"brewery_15_content": [{
+			"label": "The History",
+			"content": "Established in 1920, and now with a fifth, female Chief Operator in Rieko Hayashi, Eiichi had been a mainstay in the local community for many years, before later launching Hyakujuro as a brand aimed toward limited distribution in specialized sake stores. The name originates from a namesake in the late Hyakujuro Ichikawa, who was a kabuki actor from Kagamihara City in Gifu Prefecture. He is remembered not only for his performances, but also for donating and planting some 1,200 sakura trees \u2013 subsequently dubbed \u201cHyakujuro-sakura\u201d \u2013 which have been ranked among the top one-hundred for viewing in Japan. Likewise, this sake aims to be a source of smiles and enjoyment, to which end the incoming Head Brewer committed herself when revitalizing and refining the character of the sake in 2013. Now many come from far and wide seeking the bottled happiness just as others do the cherry trees, including the famous Beckham couple among them."
+		}],
+		"brewery_15_moreInfo": [{
+			"label": "Probiotic Process",
+			"content": "Utilizing lactic acid bacteria for the first time in Japan, we established additive-free manufacturing method and obtained patent Possible to improve umami and various flavors. Full use of lactic acid bacteria with the next-generation additive-free SAKE brewing method SAKE made from living microorganisms which have some positive impacts on health"
+		}, {
+			"label": "Japanese Alps",
+			"content": "Located in the south of the world's leading heavy snowfall and the Japanese Alps, abundant ultra-soft snowmelt water is poured as underground water. Water source area where one of the best clear streams in Japan flows"
+		}],
+		"brewery_15_companyInfo": {
+			"name": "Hayashi BREWERY, Ltd.",
+			"year_founded": "1920",
+			"website": "http://www.eiichi.co.jp/",
+			"address": "2239, Nakashinkano-cho,Kakamigahara-city, Gifu, Japan"
+		},
+		"brewery_16_title": "Emishiki Brewery",
+		"brewery_16_prefecture": "Koga-shi, Shiga, Prefecture",
+		"brewery_16_shortDesc": "The abundant ultra-soft water of the Japanese Alps makes a gentle liquor with a glossy flavor  ...",
+		"brewery_16_content": [{
+			"label": "The History",
+			"content": "The driving concept in Emishiki is that \u201csweetness reigns supreme\u201d, which was introduced by the fifth and current Chief Manager, Atsunori Takeshima who is a husband of the brewer's daughter, when he assumed the role in 2009 and began to gain a reputation as a maverick in the industry. His commitment to challenging accepted norms as a brewer arises from his nature as an avid sake consumer as well, leading him to practice methods others might regard as flirting with madness. In breaking the mold, Emishiki pursues a \u201cdelicious and novel style for Japanese sake\u201d \u2013 a concept which is also apparent in its catchy title and innovative label designs. As with anything popular, it can be difficult to keep pace with a line-up that constantly changes year upon year, but in this case the extra effort reflects favorably on the strength of their reputation."
+		}],
+		"brewery_16_moreInfo": [{
+			"label": "--",
+			"content": "--"
+		}, {
+			"label": "--",
+			"content": "--"
+		}],
+		"brewery_16_companyInfo": {
+			"name": "Emishiki Shuzou, Ltd.",
+			"year_founded": "---",
+			"website": "http://www.emishiki.com/",
+			"address": "Minaguchi-cho Hon-cho 1-7-8, Koga-shi, Shiga Prefecture, 528-0031, Japan"
+		},
+		"brewery_17_title": "Shimizu Seizaburo Shoten",
+		"brewery_17_prefecture": "Wakamatsu-higashi, Suzuka-City Mie-Prefecture",
+		"brewery_17_shortDesc": "This producer has one of the highest-valued sake cellars in the world ...",
+		"brewery_17_content": [{
+			"label": "Brand Origin",
+			"content": "They named their sake \u201cZaku\u201d (which means \u201cthe work\u201d) to express their feeling that sake brewing does not end with bottling the beverage. The work is continued by the liquor store that sells it, the restaurant that serves it, and the connoisseur who drinks it. Zaku is also popular with Gundam fans."
+		}],
+		"brewery_17_moreInfo": [{
+			"label": "History",
+			"content": "Founded in 1869, the brewery takes advantage of the pristine subterranean water and fertile fields of the Ise Plain \u2013 Mie Prefecture \u2013 despite which it is the only one to remain operating in the Suzuka region. A commitment to locally-grown rice and small-scale batch brewing, and dedication to craft sake that matches with a variety of modern cuisines, have earned them a legion of fans, including football player Hidetoshi Nakata."
+		}, {
+			"label": "Committment",
+			"content": "The history of Suzuka\u2019s sake is ancient. In fact, its origins date back to the era of myths. \u201cAn Uma-sake (delicious sake) in Suzuka Country\u201d is included in the \u201cYamatohime-no-mikoto Seiki\u201d (written in about the year 768). This compilation tells the story of how Yamatohime-no-mikoto determined the proper location for the Ise Shrine under the direction of Amaterasu Ohmikami (the Sun Goddess).From this we can see that it was widely acknowledged among the people of those days that the sake of Suzuka, obtainable along the way from the capital to the Ise Shrine, was really delicious.The young Toji (chief brewer), born and raised in Suzuka, continues to brew delicious sake and makes his best efforts to live up to the historical stories."
+		}],
+		"brewery_17_companyInfo": {
+			"name": "Shimizu Seizaburo Shoten, Ltd.",
+			"year_founded": "1869",
+			"website": "http://seizaburo.jp/",
+			"address": "3-9-33 Wakamatsu-higashi, Suzuka-City Mie-Prefecture 510-0225 JAPAN"
+		},
+		"brewery_18_title": "Makino Shuzo",
+		"brewery_18_prefecture": "Takasaki-shi, Gunma Prefecture ",
+		"brewery_18_shortDesc": "We at Makino Brewery take pride in our history of more than 320 years ...",
+		"brewery_18_content": [{
+			"label": "The Brand",
+			"content": "We at Makino Brewery take pride in our history of more than 320 years and that Japanese GODS have blessed our Sake,'Osakazuki'. Being the first sake brewery in Gunma, we have consistently won Gold Medals over 20 times at National Sake contests and National Tax Authority sponsored contests in Japan."
+		}],
+		"brewery_18_moreInfo": [{
+			"label": "Osakazuki",
+			"content": "\u201cOsakazuki\u201d is one of the most delicious sake brands in Japan.This tasteful and wonderful Sake is made from carefully selected sake rice grain and clear and cold spring water in Mt. Haruna in Kurabuchi, central Japan,where the Gods shine light with sincere devotion in the cold and intense winter."
+		}],
+		"brewery_18_companyInfo": {
+			"name": "Shimizu Seizaburo Shoten, Ltd.",
+			"year_founded": "1690",
+			"website": "http://www.makino-sake.co.jp/",
+			"address": "2625-1 Gonda Kurabuchi-machi Takasaki-shi Gunma 370-3401 Japan"
+		},
+		"brewery_19_title": "Makino Shuzo",
+		"brewery_19_prefecture": "Takasaki-shi, Gunma Prefecture ",
+		"brewery_19_shortDesc": "We at Makino Brewery take pride in our history of more than 320 years ...",
+		"brewery_19_content": [{
+			"label": "The Brand",
+			"content": "We at Makino Brewery take pride in our history of more than 320 years and that Japanese GODS have blessed our Sake,'Osakazuki'. Being the first sake brewery in Gunma, we have consistently won Gold Medals over 20 times at National Sake contests and National Tax Authority sponsored contests in Japan."
+		}],
+		"brewery_19_moreInfo": [{
+			"label": "Osakazuki",
+			"content": "\u201cOsakazuki\u201d is one of the most delicious sake brands in Japan.This tasteful and wonderful Sake is made from carefully selected sake rice grain and clear and cold spring water in Mt. Haruna in Kurabuchi, central Japan,where the Gods shine light with sincere devotion in the cold and intense winter."
+		}],
+		"brewery_19_companyInfo": {
+			"name": "Shimizu Seizaburo Shoten, Ltd.",
+			"year_founded": "1690",
+			"website": "http://www.makino-sake.co.jp/",
+			"address": "2625-1 Gonda Kurabuchi-machi Takasaki-shi Gunma 370-3401 Japan"
+		},
+		"brewery_20_title": "Hachinohe Shuzo",
+		"brewery_20_prefecture": "Hachinohe City, Aomori Prefecture",
+		"brewery_20_shortDesc": "Our brewery started in 1740 when the first-generation Komai Shozaburo left Omi Province ...",
+		"brewery_20_content": [{
+			"label": "The History",
+			"content": "Our brewery started in 1740 when the first-generation Komai Shozaburo left Omi Province (located in Shiga Prefecture along the western bank of Lake Biwa in the present day) for the land of Mutsu (Tohoku) to find a good place to produce sake. Our brewery has followed in his footsteps and has continued to make sake for generations. Today, the eighth-generation Shozaburo produces an environmentally friendly, healthy, and delicious local brand of sake from Aomori Prefecture that uses rice grown in Aomori, the finest yeast, and clear spring water from the Kanisawa area in Hachinohe to perfect the brewing process."
+		}],
+		"brewery_20_moreInfo": [{
+			"label": "The Brand",
+			"content": "The legend of the Eight Immortals (the Eight Drunken Immortals), or Hassen in Japanese, originated in ancient China and has passed down to the present day. Stories about the Eight Immortals and their earthly exploits often detail the delightful ways in which they enjoyed drinking their favorite wine and spirits. We named our sake \u201cMutsu Hassen,\u201d which means the Eight Drunken Immortals of Tohoku, after this legend. We hope sake lovers and connoisseurs can savor and enjoy this rich and full-flavored sake our brewery is famous for."
+		}],
+		"brewery_20_companyInfo": {
+			"name": "Hachinohe Shuzo Co., Ltd.",
+			"year_founded": "1740",
+			"website": "https://mutsu8000.com/",
+			"address": "9 Hon-cho, Minato-machi Hachinohe City, Aomori Prefecture, Japan 031-0812"
+		},
+		"brewery_21_title": "Kanbai Shuzo ",
+		"brewery_21_prefecture": "Osaki-City, Miyagi Prefecture",
+		"brewery_21_shortDesc": "Our ancestors took the art of sake-making both seriously and playfully....",
+		"brewery_21_content": [{
+			"label": "The History",
+			"content": "Our sake was born nearly one-hundred years ago, in 1918. The founder and landowner, Jiro Iwasaki bore the sake that was far superior to the local plain rice. It has been said that Iwasaki approached sake-making in a playful manner. Sake-making can become very rigorous and at times, unenjoyable. But we strive to keep Iwasaki\u2019s values alive by keeping our playful and enjoyable spirits while making sake. To remain true to our founder, we continue to make our sake seriously, passionately, and diligently. We believe that our brewery\u2019s values are transmitted into the taste and quality of our sake."
+		}],
+		"brewery_21_moreInfo": [{
+			"label": "We Make Our Sake As a Family.",
+			"content": "Our family owned and operated brewing company has remained small and intimate since its beginning, 100 years ago. By keeping our company small, we are able to personally check every step and every bottle and pay attention to every detail. We take pride in our creation which has been passed down from generation to generation in the family. In 2018,another transition will occur as the parent steps down and the next generation son will take over the brewery. This sake is our family treasure, and we hope to continue sharing the taste and trade for many more generations to come."
+		}],
+		"brewery_21_companyInfo": {
+			"name": "Kanbai Shuzo Corporation",
+			"year_founded": "1918",
+			"website": "http://miyakanbai.com/",
+			"address": "15 Aza-Sakaida, Kashiwazaki ,Furukawa, Osaki-City, Miyagi-Pref 989-6216 Japan"
+		},
+		"brewery_22_title": "Heiwa Shuzo ",
+		"brewery_22_prefecture": "Wakayama Prefecture",
+		"brewery_22_shortDesc": "Heiwa Shuzo was founded in 1928 by Tamotsu Yamamoto...",
+		"brewery_22_content": [{
+			"label": "The History",
+			"content": "Heiwa Shuzo was founded in 1928 by Tamotsu Yamamoto. A sake brewer since the Edo period, Tamotsu Taniguchi was adopted by his son-in-law to take over the Yamamoto family, which had been a Buddhist temple for generations. At that time, his innate love of sake led him to establish a sake brewery."
+		}],
+		"brewery_22_moreInfo": [{
+			"label": "2nd World War Woes...",
+			"content": "The Heiwa Brewery has been threatened with closure on several occasions. During the Second World War, when the war was raging, the government ordered the evacuation of schoolchildren and the closure of sake breweries in Kyoto.\u3000Even after the war, the brewery was not allowed to regain its license.\u3000So Yasumasa Yamamoto, the second generation of the family, went to the cityhall to make a speech calling for the reopening of the brewery. Shaking with regret, he spoke of the disappointment of being forced to close the brewery and the hope of brewing sake in the peaceful post-war era, which was applauded by many. After all that passion, permission was finally given to reopen. "
+		}],
+		"brewery_22_companyInfo": {
+			"name": "Heiwa Shuzo Co., Ltd",
+			"year_founded": "1928",
+			"website": "http://www.heiwashuzou.co.jp/",
+			"address": "119 Mizonokuchi, Kainan, Wakayama Prefecture"
+		}
+	}
+}

@@ -1,0 +1,43 @@
+.brewery-product-img{
+}
+.brewery-product-box{
+  text-align: center;
+}
+.brewery-product-title{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.6;
+  letter-spacing: 1.07px;
+  color: #1d212c;
+  text-align: left;
+  margin-top: 15px;
+  margin-bottom: 9px;
+  text-transform: uppercase;
+  margin-left: 25%;
+}
+.brewery-product-desc{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: 1px;
+  color: #787d88;
+  text-align: left;
+  width: 100%;
+  height: 44px;
+  overflow: hidden;
+  margin-left: 25%;
+}
+@media(max-width:767px){
+  .brewery-product-desc{
+    margin-left: 0%;
+  }
+  .brewery-product-title{
+   margin-left: 0%;
+  }
+}

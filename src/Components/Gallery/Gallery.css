@@ -1,0 +1,139 @@
+.gallery-box{
+  width: 100%;
+}
+.gallery-img{
+  width: 100%;
+  height: 428.8px;
+  object-fit: cover;
+  object-position: center;
+}
+.margin-right-g{
+  margin-left: 2%;
+}
+.gallery-main-section .carousel .carousel-indicators li{
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50% !important;
+  background-color: grey !important;
+
+}
+.gallery-main-section .carousel .carousel-indicators .active {
+    background-color: black !important;
+}
+.gallery-main-section .carousel .carousel-control-prev {
+    right: 30px !important;
+    top: -76px !important;
+    bottom: unset !important;
+    left: unset !important;
+}
+.gallery-main-section .carousel .carousel-control-next {
+    position: absolute;
+    top: -76px !important;
+    bottom: unset !important;
+}
+.gallery-main-section .prev-next-btn {
+    margin-top: 8px;
+    text-align: right;
+    position: relative;
+    top: -66px;
+    right: 2%;
+}
+.gallery-width{
+  max-width: 100% !important;
+}
+.gallerry-slider .gallery-main-section .slick-slider .slick-dots  li.slick-active button:before {
+    opacity: .75;
+    color: #000 !important;
+}
+.gallery-main-section{
+  width: 95%;
+  margin: 0 auto;
+}
+.gallerry-slider .gallery-main-section .slick-slider .slick-dots {
+  bottom: -62px !important;
+}
+@media(max-width:1300px){
+
+}
+@media(max-width:1200px){
+
+}
+@media(max-width:1100px){
+
+}
+@media(max-width:1023px){
+
+}
+@media(max-width:767px){
+  .gallery-main-section .prev-next-btn {
+      margin-top: 8px;
+      text-align: right;
+      position: relative;
+      top: -85px;
+      right: 13%;
+  }
+ .breweries-gallery-section{
+   max-width:100% !important;
+   padding: 2% 4% 2% 5% !important;
+   margin-top: 80px !important;
+ }
+ .gallery-padding-left{
+   padding-left: 0px !important;
+   padding-right: 0px !important;
+ }
+ .gallery-main-section {
+    width: 100%;
+    margin: 0 auto;
+}
+.gallery-width{
+  max-width: 100% !important;
+  padding-right: 0px !important;
+}
+.gallery-img{
+  width: 100%;
+  height: 428.8px;
+ object-fit: contain;
+}
+}
+@media(max-width:719px){
+  .gallery-main-section .prev-next-btn {
+      margin-top: 8px;
+      text-align: right;
+      position: relative;
+      top: -79px;
+      right: 23%;
+  }
+}
+@media(max-width:479px){
+  .gallery-main-section .prev-next-btn {
+      top: -80px;
+      right: 26%;
+  }
+.breweries-gallery-section {
+    max-width: 100% !important;
+    padding: 2% 3% 2% 5% !important;
+    margin-top: 80px !important;
+}
+}
+@media(max-width:419px){
+  .gallery-main-section .prev-next-btn {
+      top: -78px;
+      right: 30%;
+  }
+ .breweries-gallery-section {
+     max-width: 100% !important;
+     padding: 2% 3% 2% 5% !important;
+     margin-top: 80px !important;
+ }
+}
+@media(max-width:359px){
+  .gallery-main-section .prev-next-btn {
+      top: -78px;
+      right: 30%;
+  }
+ .breweries-gallery-section {
+     max-width: 100% !important;
+     padding: 2% 3% 2% 5% !important;
+     margin-top: 80px !important;
+ }
+}

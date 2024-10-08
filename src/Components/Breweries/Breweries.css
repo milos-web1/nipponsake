@@ -1,0 +1,177 @@
+.breweries-container{
+    width: 100%;
+}
+.breweries-inner-text {
+  max-width: 92% !important;
+  height: 79%;
+  display: table;
+}
+.breweries-main-title{
+ display: table-cell;
+ vertical-align: bottom;
+}
+
+.breweries-subtitle{
+  font-family: 'Open Sans';
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  width: 40%;
+  text-transform: uppercase;
+}
+.breweries-title{
+  font-family: 'Open Sans';
+ font-size: 60px;
+ font-weight: 300;
+ font-style: normal;
+ font-stretch: normal;
+ line-height: 1.2;
+ letter-spacing: normal;
+ color: #ffffff;
+ width: 40%;
+}
+.breweries-subtitles{
+  font-family: 'Open Sans';
+  font-size: 24px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #ffffff;
+  width: 40%;
+  margin-top: 20px;
+}
+.breweries-section{
+    max-width: 92% !important;
+    margin-top: 40px;
+}
+.breweries-main-heading{
+  margin-top: 20px;
+  text-align: center;
+  font-family: 'Open Sans';
+  font-size: 30px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.7;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1e1e1e;
+}
+.breweries-description{
+  font-family: 'Open Sans';
+  width: 61%;
+  margin: 0 auto;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.67;
+  letter-spacing: normal;
+  text-align: center;
+  color: #1e1e1e;
+  text-align: center;
+  margin-top: 26px;
+}
+.breweries-img-section{
+  /* max-width: 100% !important; */
+  margin-top: 70px;;
+}
+.margin-top-breweries{
+  margin-top: 20px;
+}
+.breweries-box{
+  margin-top: 30px;
+}
+.breweries-img{
+  width: 100%;
+  height: 428px;
+  object-fit: cover;
+  object-position: center;
+}
+.breweries-text-section{
+  margin-left: 30px;
+  padding-left: 30px;
+  margin-top: 30px;
+  padding-top: 23px;
+  margin-bottom: 30px;
+}
+.breweries-img-title{
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: 1.14px;
+  color: #1d212c;
+  text-transform: uppercase;
+}
+.breweries-img-subtitle{
+  font-family: 'Open Sans';
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.43;
+  letter-spacing: 1px;
+  color: rgba(0, 0, 0, 0.51);
+}
+.padding-left{
+  padding-left: 20px  !important;
+}
+.brewery-space{
+  margin-top: 15px;
+  padding-top: 15px;
+}
+.padding-brewery-section{
+  padding-top: 3%;
+  border-bottom: 1px solid #d8d4d4;
+}
+@media(max-width:767px){
+
+  .breweries-subtitle{
+    font-size: 12px;
+    width: 100%;
+  }
+  .breweries-title{
+    font-size: 36px;
+    width: 100%;
+  }
+  .breweries-subtitles{
+    width: 100%;
+    font-size: 18px;
+  }
+  .breweries-section {
+    max-width: 100% !important;
+    padding: 2% 5% !important;
+    margin-top: 40px;
+  }
+  .breweries-description{
+    width: 100%;
+    text-align: center;
+  }
+  .breweries-img-section {
+    max-width: 100% !important;
+    padding: 2% 5% !important;
+    margin-top: 0px;
+  }
+  .breweries-text-section {
+    margin-left: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    padding-top: 23px;
+    margin-bottom: 30px;
+}
+.breweries-img{
+  width: 100%;
+  height: 429px;
+  object-fit: cover;
+  object-position: center;
+}
+}

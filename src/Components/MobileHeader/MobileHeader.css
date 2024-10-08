@@ -1,0 +1,114 @@
+.sidenav {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #b40000;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 3%;
+}
+
+.sidenav .mobile-link {
+  padding: 8px 8px 8px 8px;
+  text-decoration: none;
+  display: block;
+  transition: 0.3s;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.mobile-link {
+  padding: 40px 8px 8px 8px !important;
+}
+
+.sidenav .close-menu-items {
+  padding: 12px 8px 8px 8px !important;
+  text-decoration: none;
+  display: block;
+  transition: 0.3s;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.close-menu-items img {
+  cursor: pointer;
+  user-select: none;
+}
+
+.active-item {
+  padding: 40px 8px 8px 8px !important;
+  text-decoration: none;
+  display: block;
+  transition: 0.3s;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-weight: normal;
+  text-align: center;
+  color: #ffffff !important;
+  text-transform: uppercase;
+  cursor: pointer;
+  user-select: none;
+}
+
+.active-item:hover {
+  text-decoration: underline !important;
+  cursor: pointer;
+  user-select: none;
+}
+
+.intive-item {
+  padding: 40px 8px 8px 8px !important;
+  text-decoration: none;
+  display: block;
+  transition: 0.3s;
+  font-family: "Open Sans";
+  font-size: 18px;
+  font-weight: 300;
+  text-align: center;
+  color: #ffffff !important;
+  text-transform: uppercase;
+}
+
+.intive-item:hover {
+  text-decoration: underline !important;
+  color: #ffffff !important;
+  cursor: pointer;
+  user-select: none;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0%;
+  left: 35px;
+  font-size: 36px;
+  color: #ffff;
+}
+
+.main-header-mobile-block {
+  display: block;
+}
+
+.main-header-mobile-none {
+  display: none;
+}
+
+.social-width {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}

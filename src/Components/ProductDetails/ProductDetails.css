@@ -1,0 +1,115 @@
+.products-image-large {
+  width: 396.7px;
+  height: 521px;
+}
+.main-product-details-box {
+  margin: 10px 30px !important;
+}
+.products-details-image img {
+  width: 100%;
+  object-fit: contain;
+}
+.products-details-map-section {
+  width: 100%;
+}
+.details-value {
+  display: initial !important;
+}
+.padding-right {
+  padding-right: 56px;
+}
+.map_details {
+  height: 509px;
+  overflow: hidden;
+}
+.map_details img {
+  width: 100%;
+  height: 100%;
+}
+.modal-header .close {
+  padding: 2rem 1rem !important;
+  display: inline-block !important;
+  width: 10% !important;
+  text-align: center !important;
+  background-color: #b40000 !important;
+  opacity: 1 !important;
+  color: #ffffff !important;
+}
+.modal-title {
+  width: 100% !important;
+}
+.modal.show .modal-dialog {
+  width: 80%;
+  top: 50px;
+}
+.modal-lg,
+.modal-xl {
+  max-width: 80% !important;
+}
+.thumbs-img-size {
+  width: 122px;
+  height: 185px;
+  object-fit: cover;
+}
+.margin-bottom-size {
+  margin-bottom: 15px;
+}
+.desc-catogery-main-section {
+  padding: 40px 40px;
+  background-color: #f5f5f5;
+}
+.map-image-large {
+  height: 521px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+@media (max-width: 767px) {
+  .thumb-img-size {
+    width: 100%;
+    height: 121px;
+    margin-right: 1%;
+    object-fit: contain;
+  }
+  .desc-catogery-main-section {
+    width: 96%;
+    margin: 0 auto;
+  }
+  .products-details-map-section {
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 50px;
+  }
+  .map-image-large {
+    height: 400px;
+    width: 100%;
+  }
+  .modal {
+    padding-left: 0px !important;
+  }
+  .main-product-details-box {
+    margin: 0px 0px !important;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .modal.show .modal-dialog {
+    width: 100%;
+    top: 0px;
+  }
+  .modal-lg,
+  .modal-xl {
+    max-width: 100% !important;
+  }
+  .modal {
+    top: -10px !important;
+    left: -10px !important;
+    width: 103% !important;
+    height: 103% !important;
+    padding-left: 0px !important;
+  }
+}
+
+.products-details-close-mobile a {
+  cursor: pointer;
+}
